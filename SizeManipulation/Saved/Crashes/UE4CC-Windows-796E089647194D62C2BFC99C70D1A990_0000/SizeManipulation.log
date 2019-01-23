@@ -1,0 +1,759 @@
+﻿Log file open, 01/10/19 15:49:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SizeManipulation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.267791
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.10-23.49.18:714][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-23.49.18:714][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.10-23.49.18:737][  0]LogHAL: Display: Platform has ~ 16 GB [17136615424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.10-23.49.18:737][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.10-23.49.18:737][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.10-23.49.18:738][  0]LogInit: Computer: IRONSIDE
+[2019.01.10-23.49.18:738][  0]LogInit: User: User
+[2019.01.10-23.49.18:738][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.10-23.49.18:738][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.01.10-23.49.18:738][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.10-23.49.18:738][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.10-23.49.18:738][  0]LogMemory: Process Physical Memory: 100.83 MB used, 100.83 MB peak
+[2019.01.10-23.49.18:738][  0]LogMemory: Process Virtual Memory: 89.41 MB used, 89.41 MB peak
+[2019.01.10-23.49.18:738][  0]LogMemory: Physical Memory: 6673.33 MB used,  9669.42 MB free, 16342.75 MB total
+[2019.01.10-23.49.18:738][  0]LogMemory: Virtual Memory: 4639.12 MB used,  9669.42 MB free, 134217728.00 MB total
+[2019.01.10-23.49.18:767][  0]LogInit: Using OS detected language (en-US).
+[2019.01.10-23.49.18:767][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.10-23.49.18:768][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.10-23.49.19:095][  0]LogStreaming: Display: Took  0.328s to InitEngineTextLocalization.
+[2019.01.10-23.49.19:096][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.10-23.49.19:138][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.10-23.49.19:138][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.10-23.49.19:422][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-23.49.19:422][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.10-23.49.19:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.10-23.49.19:468][  0]LogD3D11RHI:       6052/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.10-23.49.19:470][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.10-23.49.19:470][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.10-23.49.19:470][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.10-23.49.19:476][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.10-23.49.19:476][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.10-23.49.19:476][  0]LogWindows: EnumDisplayDevices:
+[2019.01.10-23.49.19:476][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.10-23.49.19:476][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.10-23.49.19:476][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.10-23.49.19:477][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.10-23.49.19:477][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.10-23.49.19:477][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.10-23.49.19:477][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.01.10-23.49.19:477][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.01.10-23.49.19:477][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.10-23.49.19:507][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.10-23.49.19:522][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.10-23.49.19:571][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Intermediate/Shaders/WorkingDirectory/1708/).
+[2019.01.10-23.49.19:571][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/117D39BD473DCB7FD0A7A4B731DD0CDB/'.
+[2019.01.10-23.49.19:821][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.10-23.49.19:833][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.10-23.49.19:845][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.10-23.49.19:856][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.10-23.49.19:870][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.10-23.49.19:882][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.10-23.49.19:897][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.10-23.49.19:909][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.10-23.49.19:916][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-23.49.19:999][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.10-23.49.20:062][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-23.49.20:062][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-23.49.20:099][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-23.49.20:099][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-23.49.20:113][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.10-23.49.20:124][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.10-23.49.20:135][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.10-23.49.20:152][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.10-23.49.20:161][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-23.49.20:161][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.10-23.49.20:209][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.10-23.49.20:209][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.10-23.49.20:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.10-23.49.20:831][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.10-23.49.20:882][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.10-23.49.20:883][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.10-23.49.20:883][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.10-23.49.20:883][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.10-23.49.20:883][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-23.49.20:883][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.10-23.49.20:897][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.10-23.49.20:909][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.10-23.49.20:909][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.10-23.49.20:909][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.10-23.49.20:925][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.10-23.49.20:926][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.10-23.49.20:930][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.10-23.49.21:016][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2019.01.10-23.49.21:286][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-23.49.21:404][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.10-23.49.21:407][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.10-23.49.21:407][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.10-23.49.21:407][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.10-23.49.21:407][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.10-23.49.21:437][  0]LogNetVersion: SizeManipulation 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1313572682)
+[2019.01.10-23.49.21:923][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.097177 seconds
+[2019.01.10-23.49.21:930][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.10-23.49.21:930][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.01.10-23.49.21:930][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.10-23.49.22:856][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.10-23.49.22:870][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.10-23.49.23:189][  0]SourceControl: Source control is disabled
+[2019.01.10-23.49.23:189][  0]SourceControl: Source control is disabled
+[2019.01.10-23.49.23:191][  0]SourceControl: Source control is disabled
+[2019.01.10-23.49.23:191][  0]SourceControl: Source control is disabled
+[2019.01.10-23.49.23:380][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.10-23.49.23:433][  0]LogOcInput: OculusInput pre-init called
+[2019.01.10-23.49.23:483][  0]LogEngine: Initializing Engine...
+[2019.01.10-23.49.23:484][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-23.49.23:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-23.49.23:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-23.49.23:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-23.49.23:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-23.49.23:668][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.10-23.49.23:676][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.10-23.49.23:727][  0]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.10-23.49.23:748][  0]LogInit: FAudioDevice initialized.
+[2019.01.10-23.49.23:748][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.10-23.49.23:876][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.10-23.49.23:877][  0]LogInit: Texture streaming: Enabled
+[2019.01.10-23.49.23:890][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.10-23.49.23:899][  0]LogInit: Transaction tracking system initialized
+[2019.01.10-23.49.23:915][  0]BlueprintLog: New page: Editor Load
+[2019.01.10-23.49.24:021][  0]LocalizationService: Localization service is disabled
+[2019.01.10-23.49.24:266][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.10-23.49.24:266][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.10-23.49.24:266][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.10-23.49.24:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-23.49.24:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-23.49.24:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-23.49.24:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-23.49.24:421][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/' took 0.02s
+[2019.01.10-23.49.24:421][  0]SourceControl: Source control is disabled
+[2019.01.10-23.49.24:421][  0]Cmd: MAP LOAD FILE="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.10-23.49.24:422][  0]LightingResults: New page: Lighting Build
+[2019.01.10-23.49.24:423][  0]MapCheck: New page: Map Check
+[2019.01.10-23.49.24:423][  0]LightingResults: New page: Lighting Build
+[2019.01.10-23.49.24:588][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.10-23.49.24:621][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.10-23.49.24:640][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.10-23.49.24:706][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.116ms to complete.
+[2019.01.10-23.49.24:706][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.285
+[2019.01.10-23.49.24:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-23.49.24:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-23.49.24:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-23.49.24:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-23.49.24:884][  0]LogCollectionManager: Loaded 0 collections in 0.000906 seconds
+[2019.01.10-23.49.24:929][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Saved/Collections/' took 0.01s
+[2019.01.10-23.49.24:929][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Developers/User/Collections/' took 0.01s
+[2019.01.10-23.49.24:929][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Collections/' took 0.01s
+[2019.01.10-23.49.24:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.10-23.49.24:940][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2576 classes and 605 folders.
+[2019.01.10-23.49.24:951][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.01.10-23.49.25:031][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.10-23.49.25:058][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.10-23.49.25:072][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.10-23.49.25:074][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.10-23.49.25:079][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.10-23.49.25:150][  0]LogRenderer: Reallocating scene render targets to support 1196x548 Format 10 NumSamples 1 (Frame:1).
+[2019.01.10-23.49.25:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.10-23.49.25:282][  0]LogLoad: (Engine Initialization) Total time: 8.40 seconds
+[2019.01.10-23.49.25:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.10-23.49.25:292][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.10-23.49.25:312][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.10-23.49.25:370][  0]LogRenderer: Reallocating scene render targets to support 1196x564 Format 10 NumSamples 1 (Frame:3).
+[2019.01.10-23.49.25:370][  0]LogSlate: Took 0.003155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-23.49.25:384][  1]LogAssetRegistry: Asset discovery search completed in 4.3904 seconds
+[2019.01.10-23.49.25:385][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.10-23.49.25:385][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.01.10-23.51.33:238][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-23.51.33:447][946]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-23.51.33:455][946]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair
+[2019.01.10-23.51.33:460][946]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.10-23.51.42:503][996]LogTexture: Display: Building textures: FirstPersonCrosshair (AutoDXT, 16X16)
+[2019.01.10-23.53.34:327][204]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonCrosshair7145A1204555E700BF3F93B4DB91AEB0.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2019.01.10-23.53.44:468][418]LogTexture: Display: Building textures: FirstPersonCrosshair (AutoDXT, 16X16)
+[2019.01.10-23.53.50:862][180]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonCrosshair4B9D3D91408F307DD277F4A55CD42EF2.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2019.01.10-23.55.19:648][227]LogSlate: Window 'FirstPersonCrosshair' being destroyed
+[2019.01.10-23.55.19:654][227]LogSlate: Window 'FirstPersonCrosshair' being destroyed
+[2019.01.10-23.55.28:563][267]LogSlate: Window 'World Settings' being destroyed
+[2019.01.10-23.55.28:568][267]LogSlate: Window 'World Settings' being destroyed
+[2019.01.10-23.55.39:309][550]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.10-23.55.39:701][550]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.01.10-23.56.01:937][882]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.10-23.56.03:986][117]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2019.01.10-23.56.07:091][469]LogSlate: Took 0.002801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.10-23.56.19:022][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-23.56.19:150][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.10-23.56.24:010][275]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.10-23.56.24:081][275]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.10-23.56.24:362][275]LogSlate: Took 0.002784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.10-23.56.28:820][687]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.10-23.57.12:219][429]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.01.10-23.57.23:250][666]LogSlate: Window 'FirstPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.01.10-23.58.07:435][590]LogSlate: Window 'World Settings' being destroyed
+[2019.01.10-23.58.07:439][590]LogSlate: Window 'World Settings' being destroyed
+[2019.01.11-00.14.52:277][283]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.01.11-00.14.52:351][284]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.11-00.14.52:351][284]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.11-00.14.52:351][284]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.11-00.14.52:351][284]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.11-00.14.52:369][284]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.01.11-00.14.52:405][285]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.01.11-00.14.52:435][286]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.01.11-00.14.55:361][593]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.01.11-00.14.55:878][638]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.01.11-00.14.56:341][678]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.01.11-00.14.57:412][782]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.11-00.14.57:412][782]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.11-00.14.57:691][809]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.11-00.14.58:430][883]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.11-00.14.59:380][984]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.11-00.15.00:236][ 77]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.11-00.15.00:452][100]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.11-00.15.00:639][120]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.11-00.15.01:811][244]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.11-00.15.02:347][296]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.11-00.15.02:505][312]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.11-00.15.12:193][437]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.11-00.15.47:058][727]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.11-00.15.47:063][727]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.11-00.16.19:138][510]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.01.11-00.16.19:384][510]LogUObjectGlobals: Warning: Failed to find object 'Object None.No Results found'
+[2019.01.11-00.16.36:480][406]LogSlate: Window 'FirstPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.01.11-00.16.42:261][ 71]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.01.11-00.16.45:025][355]LogSlate: Window 'FirstPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.01.11-00.16.50:005][836]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.11-00.16.50:060][837]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SizeManipulation
+[2019.01.11-00.16.50:060][837]LogTemp: CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.01.11-00.16.50:060][837]LogTemp: Initial Dir: D:\Epic Games\UE_4.20
+[2019.01.11-00.16.50:060][837]LogTemp: Env CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.01.11-00.16.50:060][837]LogTemp: BranchPath = IRONSIDE/D/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = IRONSIDE/D/Epic Games/UE_4.20/Engine/Binaries
+[2019.01.11-00.16.50:060][837]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.11-00.17.02:922][313]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.11-00.17.02:926][313]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.11-00.41.37:826][111]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-00.41.37:841][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-00.41.37:842][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-00.41.37:856][111]PIE: New page: PIE session: FirstPersonExampleMap (Jan 10, 2019, 8:41:37 AM)
+[2019.01.11-00.41.37:856][111]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-00.41.37:880][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023514s)
+[2019.01.11-00.41.37:881][111]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-00.41.37:881][111]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2019.01.11-00.41.37:881][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024898s)
+[2019.01.11-00.41.37:957][111]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-00.41.37:967][111]LogInit: FAudioDevice initialized.
+[2019.01.11-00.41.38:011][111]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-00.41.38:020][111]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.10-16.41.38
+[2019.01.11-00.41.38:020][111]LogWorld: Bringing up level for play took: 0.004484
+[2019.01.11-00.41.38:044][111]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 10 classes and 0 folders.
+[2019.01.11-00.41.38:046][111]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.114
+[2019.01.11-00.41.38:046][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-00.42.14:805][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-00.42.14:806][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-00.42.14:840][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-00.42.14:841][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-00.42.14:868][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-00.42.14:904][514]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.11-01.29.30:009][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.11-02.16.54:094][225]Candidate modules for hot reload:
+[2019.01.11-02.16.54:094][225]  SizeManipulation
+[2019.01.11-02.16.54:095][225]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,7892 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.16.54:100][225]Warning: Starting HotReload took  0.1s.
+[2019.01.11-02.17.12:653][447]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:17:12 AM
+[2019.01.11-02.17.12:653][447]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2019.01.11-02.17.12:653][447]CompilerResultsLog: Creating makefile for hot reloading SizeManipulationEditor (no existing makefile)
+[2019.01.11-02.17.12:653][447]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.17.12:653][447]CompilerResultsLog: Using Visual Studio 2015 14.0 toolchain (D:\VS\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+[2019.01.11-02.17.12:654][447]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.17.12:654][447]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.17.12:654][447]CompilerResultsLog: Error: D:/My Files/The Documents/Unreal Projects/SizeManipulation/Source/SizeManipulation/SizeManipulationCharacter.h(86)  : Error: 'BlueprintAssignable' is only allowed on multicast delegate properties
+[2019.01.11-02.17.12:654][447]CompilerResultsLog: Error: UnrealHeaderTool failed for target 'SizeManipulationEditor' (platform: Win64, module info: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest, exit code: OtherCompilationError (5)).
+[2019.01.11-02.17.12:654][447]LogMainFrame: MainFrame: Module compiling took 18.599 seconds
+[2019.01.11-02.17.12:654][447]Warning: HotReload failed, recompile failed
+[2019.01.11-02.19.40:957][222]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.19.40:961][222]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.19.42:256][370]Candidate modules for hot reload:
+[2019.01.11-02.19.42:256][370]  SizeManipulation
+[2019.01.11-02.19.42:256][370]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,1096 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.19.42:261][370]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:21:34 AM
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: Creating makefile for hot reloading SizeManipulationEditor (no existing makefile)
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: Using Visual Studio 2015 14.0 toolchain (D:\VS\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 10.3070993 seconds
+[2019.01.11-02.21.34:465][120]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:   [1/9] SizeManipulationCharacter.cpp
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(283) : error C2065: 'OnCyclePressed': undeclared identifier
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(283) : error C2228: left of '.Broadcast' must have class/struct/union
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:   D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(283): note: type is 'unknown-type'
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:   [2/9] SizeManipulation.init.gen.cpp
+[2019.01.11-02.21.34:465][120]CompilerResultsLog:   [3/9] SizeManipulationGameMode.cpp
+[2019.01.11-02.21.34:466][120]CompilerResultsLog:   [4/9] SizeManipulationHUD.cpp
+[2019.01.11-02.21.34:466][120]CompilerResultsLog:   [5/9] SizeManipulationHUD.gen.cpp
+[2019.01.11-02.21.34:466][120]CompilerResultsLog:   [6/9] SizeManipulationGameMode.gen.cpp
+[2019.01.11-02.21.34:466][120]CompilerResultsLog:   [7/9] SizeManipulationCharacter.gen.cpp
+[2019.01.11-02.21.34:466][120]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1096.dll
+[2019.01.11-02.21.34:466][120]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-02.21.34:466][120]CompilerResultsLog: Total build time: 111.94 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-02.21.34:466][120]LogMainFrame: MainFrame: Module compiling took 112.219 seconds
+[2019.01.11-02.21.34:466][120]Warning: HotReload failed, recompile failed
+[2019.01.11-02.22.09:068][173]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.22.09:073][173]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.22.10:261][314]Candidate modules for hot reload:
+[2019.01.11-02.22.10:261][314]  SizeManipulation
+[2019.01.11-02.22.10:261][314]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,722 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.22.10:265][314]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:22:16 AM
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog:   [1/3] SizeManipulationCharacter.cpp
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-722.lib
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-722.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-722.exp
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-722.dll
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-722.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-722.suppressed.exp
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog: Error:   SizeManipulationGameMode.gen.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ASizeManipulationGameMode::BindCrosshairColorChange(float)" (?BindCrosshairColorChange@ASizeManipulationGameMode@@QEAAXM@Z) referenced in function "public: static void __cdecl ASizeManipulationGameMode::execBindCrosshairColorChange(class UObject *,struct FFrame &,void * const)" (?execBindCrosshairColorChange@ASizeManipulationGameMode@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog: Error:   D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-722.dll : fatal error LNK1120: 1 unresolved externals
+[2019.01.11-02.22.16:319][ 39]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-722.dll
+[2019.01.11-02.22.16:320][ 39]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-02.22.16:320][ 39]CompilerResultsLog: Total build time: 5.81 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-02.22.16:320][ 39]LogMainFrame: MainFrame: Module compiling took 6.067 seconds
+[2019.01.11-02.22.16:320][ 39]Warning: HotReload failed, recompile failed
+[2019.01.11-02.23.13:626][953]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.23.13:644][953]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.23.15:040][107]Candidate modules for hot reload:
+[2019.01.11-02.23.15:040][107]  SizeManipulation
+[2019.01.11-02.23.15:040][107]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,7733 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.23.15:044][107]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.23.28:952][775]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:23:28 AM
+[2019.01.11-02.23.28:952][775]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.23.28:952][775]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.23.28:952][775]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 10.2629814 seconds
+[2019.01.11-02.23.28:952][775]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:   [1/5] SizeManipulation.init.gen.cpp
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:   [2/5] SizeManipulationGameMode.gen.cpp
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:   [3/5] SizeManipulationGameMode.cpp
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:   [4/5] UE4Editor-SizeManipulation-7733.lib
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7733.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7733.exp
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:   [5/5] UE4Editor-SizeManipulation-7733.dll
+[2019.01.11-02.23.28:952][775]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7733.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7733.suppressed.exp
+[2019.01.11-02.23.28:952][775]CompilerResultsLog: Total build time: 13.66 seconds (Parallel executor: 1.84 seconds)
+[2019.01.11-02.23.28:952][775]LogMainFrame: MainFrame: Module compiling took 13.920 seconds
+[2019.01.11-02.23.29:017][775]LogClass: Could not find existing class SizeManipulationHUD in package /Script/SizeManipulation for HotReload, assuming new class
+[2019.01.11-02.23.29:053][775]LogHotReload: Re-instancing SizeManipulationGameMode after hot-reload.
+[2019.01.11-02.23.29:244][775]LogHotReload: Re-instancing SizeManipulationHUD after hot-reload.
+[2019.01.11-02.23.29:339][775]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2019.01.11-02.23.29:342][775]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-02.23.29:943][775]LogContentBrowser: Native class hierarchy populated in 0.0323 seconds. Added 2578 classes and 609 folders.
+[2019.01.11-02.23.29:968][775]Display: HotReload took 14.9s.
+[2019.01.11-02.25.16:923][224]Candidate modules for hot reload:
+[2019.01.11-02.25.16:923][224]  SizeManipulation
+[2019.01.11-02.25.16:923][224]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,1402 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.25.16:927][224]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:25:32 AM
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 10.621114 seconds
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   [1/6] SizeManipulation.init.gen.cpp
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   [2/6] SizeManipulationCharacter.gen.cpp
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   [3/6] SizeManipulationGameMode.cpp
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   [4/6] SizeManipulationCharacter.cpp
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   [5/6] UE4Editor-SizeManipulation-1402.lib
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-1402.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-1402.exp
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:   [6/6] UE4Editor-SizeManipulation-1402.dll
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-1402.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-1402.suppressed.exp
+[2019.01.11-02.25.32:494][ 75]CompilerResultsLog: Total build time: 15.29 seconds (Parallel executor: 3.14 seconds)
+[2019.01.11-02.25.32:494][ 75]LogMainFrame: MainFrame: Module compiling took 15.581 seconds
+[2019.01.11-02.25.32:604][ 75]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.01.11-02.25.32:608][ 75]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-02.25.32:935][ 75]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2578 classes and 609 folders.
+[2019.01.11-02.25.32:935][ 75]Display: HotReload took 16.0s.
+[2019.01.11-02.29.55:824][ 52]Candidate modules for hot reload:
+[2019.01.11-02.29.55:824][ 52]  SizeManipulation
+[2019.01.11-02.29.55:825][ 52]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,6815 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.29.55:829][ 52]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.30.07:992][497]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:30:07 AM
+[2019.01.11-02.30.07:992][497]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.30.07:992][497]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.30.07:992][497]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.30.07:992][497]CompilerResultsLog: Error: D:/My Files/The Documents/Unreal Projects/SizeManipulation/Source/SizeManipulation/SizeManipulationCharacter.h(86)  : Error: 'BlueprintAssignable' is only allowed on multicast delegate properties
+[2019.01.11-02.30.07:992][497]CompilerResultsLog: UnrealHeaderTool failed for target 'SizeManipulationEditor' (platform: Win64, module info: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest).
+[2019.01.11-02.30.07:992][497]LogMainFrame: MainFrame: Module compiling took 12.177 seconds
+[2019.01.11-02.30.07:992][497]Warning: HotReload failed, recompile failed
+[2019.01.11-02.31.02:713][282]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.31.02:735][282]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.31.03:575][377]MapCheck: New page: Map Check
+[2019.01.11-02.31.03:624][377]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.11-02.31.03:628][377]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.11-02.31.03:962][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2019.01.11-02.31.03:977][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2019.01.11-02.31.03:989][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.11-02.31.03:989][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.11-02.31.03:997][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.11-02.31.03:997][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.11-02.31.03:997][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.01.11-02.31.04:003][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2019.01.11-02.31.04:016][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.11-02.31.04:016][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2019.01.11-02.31.04:027][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.01.11-02.31.04:746][377]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.11-02.31.04:746][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.11-02.31.04:747][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.11-02.31.04:747][377]TextureStreamingBuild: Display: Compiling optional shaders took 0.802 seconds.
+[2019.01.11-02.31.04:807][377]LogLevel: Display: Export Material TexCoord Scales took 0.060 seconds.
+[2019.01.11-02.31.04:830][377]TextureStreamingBuild: Display: Build Texture Streaming took 0.016 seconds.
+[2019.01.11-02.31.04:876][377]LightingResults: New page: Lighting Build - Jan 10, 2019, 10:31:04 AM
+[2019.01.11-02.31.05:007][377]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.11-02.31.05:189][377]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.11-02.31.05:207][377]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.11-02.31.06:746][377]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.11-02.31.06:746][377]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1708
+[2019.01.11-02.31.11:890][377]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.11-02.31.11:890][377]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.11-02.31.11:890][377]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.11-02.31.11:890][377]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.11-02.31.11:890][377]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.11-02.31.12:086][377]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.11-02.31.12:086][377]MapCheck: New page: FirstPersonExampleMap - Jan 10, 2019, 10:31:12 AM
+[2019.01.11-02.31.12:241][377]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 155.556ms to complete.
+[2019.01.11-02.31.12:265][377]LogEditorBuildUtils: Build time 0:08
+[2019.01.11-02.31.12:298][377]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.01.11-02.31.12:305][377]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.01.11-02.31.12:343][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.11-02.31.12:343][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.11-02.31.12:358][378]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.01.11-02.31.12:369][378]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.11-02.31.12:369][378]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.01.11-02.31.12:382][378]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.11-02.31.29:813][724]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonExampleMap_Auto1363200AB40A413202A169E9AA7398278.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.01.11-02.31.29:858][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.649
+[2019.01.11-02.31.29:858][724]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.649
+[2019.01.11-02.31.46:452][240]Job is a success!
+[2019.01.11-02.31.46:591][241]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.01.11-02.31.46:592][241]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.11-02.31.46:592][241]LogVolumetricLightmapImport:      BrickData 335x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.01.11-02.31.46:592][241]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.11-02.31.46:592][241]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2019.01.11-02.31.46:592][241]LogVolumetricLightmapImport:          1: 6.0% covering 6.3% of volume
+[2019.01.11-02.31.46:592][241]LogVolumetricLightmapImport:          2: 92.5% covering 1.5% of volume
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2019.01.11-02.31.48:989][241]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2019.01.11-02.31.49:389][241]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.01.11-02.31.49:511][241]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2019.01.11-02.31.49:531][241]Lightmass on IRONSIDE: 34.6 sec total, 115 ms importing, 22 ms setup, 5.44 sec photons, 29.0 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 3:23 min total, 2:01 min processing.
+[2019.01.11-02.31.49:593][241]LogStaticLightingSystem: Illumination: 44.6 sec (2.08 sec encoding lightmaps, 519 ms encoding shadowmaps)
+[2019.01.11-02.31.49:593][241]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.01.11-02.31.49:593][241]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2019.01.11-02.31.54:936][241]DumpUnbuiltLightIteractions
+[2019.01.11-02.31.54:936][241]Lights with unbuilt interactions: 0
+[2019.01.11-02.31.54:936][241]
+[2019.01.11-02.31.54:936][241]Primitives with unbuilt interactions: 0
+[2019.01.11-02.31.55:076][242]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.11-02.31.55:076][242]MapCheck: New page: FirstPersonExampleMap - Jan 10, 2019, 10:31:55 AM
+[2019.01.11-02.31.55:147][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.942ms to complete.
+[2019.01.11-02.31.56:649][420]Candidate modules for hot reload:
+[2019.01.11-02.31.56:649][420]  SizeManipulation
+[2019.01.11-02.31.56:649][420]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,3635 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.31.56:658][420]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.32.16:407][787]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:32:16 AM
+[2019.01.11-02.32.16:408][787]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.32.16:408][787]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.32.16:408][787]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 10.7271628 seconds
+[2019.01.11-02.32.16:408][787]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   [1/6] SizeManipulation.init.gen.cpp
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   [2/6] SizeManipulationGameMode.cpp
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   [3/6] SizeManipulationCharacter.gen.cpp
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   [4/6] SizeManipulationCharacter.cpp
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   [5/6] UE4Editor-SizeManipulation-3635.lib
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-3635.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-3635.exp
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:   [6/6] UE4Editor-SizeManipulation-3635.dll
+[2019.01.11-02.32.16:408][787]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-3635.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-3635.suppressed.exp
+[2019.01.11-02.32.16:408][787]CompilerResultsLog: Total build time: 19.37 seconds (Parallel executor: 6.79 seconds)
+[2019.01.11-02.32.16:408][787]LogMainFrame: MainFrame: Module compiling took 19.770 seconds
+[2019.01.11-02.32.16:437][787]LogClass: Could not find existing class SizeManipulationCharacter in package /Script/SizeManipulation for HotReload, assuming new class
+[2019.01.11-02.32.16:452][787]LogHotReload: Re-instancing SizeManipulationCharacter after hot-reload.
+[2019.01.11-02.32.16:816][787]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.11-02.32.16:819][787]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-02.32.17:107][787]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2578 classes and 609 folders.
+[2019.01.11-02.32.17:107][787]Display: HotReload took 20.5s.
+[2019.01.11-02.41.39:104][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.081
+[2019.01.11-02.41.39:133][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2019.01.11-02.41.39:133][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData]
+[2019.01.11-02.41.39:792][722]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonExampleMap_BuiltData_D5A4A0A14C6BB84ABB3856B22AEAB294.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData_Auto2.uasset'
+[2019.01.11-02.41.39:797][722]LogFileHelpers: Auto-saving content packages took 0.693
+[2019.01.11-02.48.12:380][895]Candidate modules for hot reload:
+[2019.01.11-02.48.12:380][895]  SizeManipulation
+[2019.01.11-02.48.12:380][895]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,7681 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.48.12:385][895]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.48.27:101][645]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:48:27 AM
+[2019.01.11-02.48.27:101][645]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.48.27:101][645]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-02.48.27:101][645]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-02.48.27:101][645]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 10.3274152 seconds
+[2019.01.11-02.48.27:101][645]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.01.11-02.48.27:101][645]CompilerResultsLog:   [1/6] SizeManipulation.init.gen.cpp
+[2019.01.11-02.48.27:101][645]CompilerResultsLog:   [2/6] SizeManipulationGameMode.gen.cpp
+[2019.01.11-02.48.27:102][645]CompilerResultsLog:   [3/6] SizeManipulationGameMode.cpp
+[2019.01.11-02.48.27:102][645]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationGameMode.cpp(17) : error C2065: 'ThisHUD': undeclared identifier
+[2019.01.11-02.48.27:102][645]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationGameMode.cpp(19) : error C3867: 'ASizeManipulationGameMode::BindCrosshairColorChange': non-standard syntax; use '&' to create a pointer to member
+[2019.01.11-02.48.27:102][645]CompilerResultsLog:   [4/6] SizeManipulationCharacter.cpp
+[2019.01.11-02.48.27:102][645]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7681.dll
+[2019.01.11-02.48.27:102][645]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-02.48.27:102][645]CompilerResultsLog: Total build time: 14.44 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-02.48.27:102][645]LogMainFrame: MainFrame: Module compiling took 14.730 seconds
+[2019.01.11-02.48.27:102][645]Warning: HotReload failed, recompile failed
+[2019.01.11-02.48.51:460][720]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.48.51:465][720]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.48.52:695][866]Candidate modules for hot reload:
+[2019.01.11-02.48.52:695][866]  SizeManipulation
+[2019.01.11-02.48.52:695][866]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,4402 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.48.52:699][866]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.48.55:045][146]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:48:55 AM
+[2019.01.11-02.48.55:045][146]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.48.55:045][146]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-02.48.55:045][146]CompilerResultsLog:   [1/3] SizeManipulationGameMode.cpp
+[2019.01.11-02.48.55:045][146]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationGameMode.cpp(18) : error C3867: 'ASizeManipulationGameMode::BindCrosshairColorChange': non-standard syntax; use '&' to create a pointer to member
+[2019.01.11-02.48.55:045][146]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-4402.dll
+[2019.01.11-02.48.55:045][146]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-02.48.55:045][146]CompilerResultsLog: Total build time: 2.09 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-02.48.55:045][146]LogMainFrame: MainFrame: Module compiling took 2.358 seconds
+[2019.01.11-02.48.55:045][146]Warning: HotReload failed, recompile failed
+[2019.01.11-02.49.48:632][ 15]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.49.48:637][ 15]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.49.50:024][172]Candidate modules for hot reload:
+[2019.01.11-02.49.50:024][172]  SizeManipulation
+[2019.01.11-02.49.50:024][172]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,5762 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.49.50:028][172]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.49.52:338][448]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:49:52 AM
+[2019.01.11-02.49.52:338][448]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.49.52:338][448]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-02.49.52:338][448]CompilerResultsLog:   [1/3] SizeManipulationGameMode.cpp
+[2019.01.11-02.49.52:338][448]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationGameMode.cpp(18) : error C2276: '&': illegal operation on bound member function expression
+[2019.01.11-02.49.52:338][448]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-5762.dll
+[2019.01.11-02.49.52:338][448]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-02.49.52:338][448]CompilerResultsLog: Total build time: 2.06 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-02.49.52:338][448]LogMainFrame: MainFrame: Module compiling took 2.323 seconds
+[2019.01.11-02.49.52:338][448]Warning: HotReload failed, recompile failed
+[2019.01.11-02.50.16:630][866]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.50.16:634][866]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-02.50.17:355][951]Candidate modules for hot reload:
+[2019.01.11-02.50.17:355][951]  SizeManipulation
+[2019.01.11-02.50.17:355][951]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,8761 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-02.50.17:359][951]Warning: Starting HotReload took  0.0s.
+[2019.01.11-02.50.19:644][224]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 10:50:19 AM
+[2019.01.11-02.50.19:644][224]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-02.50.19:644][224]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-02.50.19:644][224]CompilerResultsLog:   [1/3] SizeManipulationGameMode.cpp
+[2019.01.11-02.50.19:644][224]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationGameMode.cpp(18) : error C3867: 'ASizeManipulationGameMode::BindCrosshairColorChange': non-standard syntax; use '&' to create a pointer to member
+[2019.01.11-02.50.19:644][224]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-8761.dll
+[2019.01.11-02.50.19:644][224]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-02.50.19:644][224]CompilerResultsLog: Total build time: 2.03 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-02.50.19:644][224]LogMainFrame: MainFrame: Module compiling took 2.298 seconds
+[2019.01.11-02.50.19:644][224]Warning: HotReload failed, recompile failed
+[2019.01.11-03.01.36:120][111]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-03.01.36:125][111]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-03.01.37:408][255]Candidate modules for hot reload:
+[2019.01.11-03.01.37:408][255]  SizeManipulation
+[2019.01.11-03.01.37:408][255]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,7646 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-03.01.37:412][255]Warning: Starting HotReload took  0.0s.
+[2019.01.11-03.01.41:776][424]CompilerResultsLog: New page: Compilation - Jan 10, 2019, 11:01:41 AM
+[2019.01.11-03.01.41:776][424]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-03.01.41:776][424]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-03.01.41:776][424]CompilerResultsLog:   [1/3] SizeManipulationGameMode.cpp
+[2019.01.11-03.01.41:776][424]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-7646.lib
+[2019.01.11-03.01.41:776][424]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7646.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7646.exp
+[2019.01.11-03.01.41:776][424]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-7646.dll
+[2019.01.11-03.01.41:776][424]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7646.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7646.suppressed.exp
+[2019.01.11-03.01.41:777][424]CompilerResultsLog: Total build time: 3.90 seconds (Parallel executor: 2.46 seconds)
+[2019.01.11-03.01.41:777][424]LogMainFrame: MainFrame: Module compiling took 4.377 seconds
+[2019.01.11-03.01.41:839][424]LogClass: Could not find existing class SizeManipulationGameMode in package /Script/SizeManipulation for HotReload, assuming new class
+[2019.01.11-03.01.41:839][424]LogClass: Function BindCrosshairColorChange is new.

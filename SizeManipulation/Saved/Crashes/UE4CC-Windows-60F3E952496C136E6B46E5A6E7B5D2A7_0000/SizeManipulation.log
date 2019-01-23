@@ -1,0 +1,1933 @@
+﻿Log file open, 01/11/19 11:54:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SizeManipulation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270544
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.127s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.11-19.54.06:401][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.11-19.54.06:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.11-19.54.06:417][  0]LogHAL: Display: Platform has ~ 16 GB [17136615424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.11-19.54.06:417][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.11-19.54.06:417][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.11-19.54.06:418][  0]LogInit: Computer: IRONSIDE
+[2019.01.11-19.54.06:418][  0]LogInit: User: User
+[2019.01.11-19.54.06:418][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.11-19.54.06:418][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.01.11-19.54.06:418][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.11-19.54.06:418][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.11-19.54.06:418][  0]LogMemory: Process Physical Memory: 100.99 MB used, 100.99 MB peak
+[2019.01.11-19.54.06:418][  0]LogMemory: Process Virtual Memory: 89.40 MB used, 89.40 MB peak
+[2019.01.11-19.54.06:419][  0]LogMemory: Physical Memory: 7492.62 MB used,  8850.13 MB free, 16342.75 MB total
+[2019.01.11-19.54.06:419][  0]LogMemory: Virtual Memory: 4639.12 MB used,  8850.13 MB free, 134217728.00 MB total
+[2019.01.11-19.54.06:441][  0]LogInit: Using OS detected language (en-US).
+[2019.01.11-19.54.06:441][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.11-19.54.06:442][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.11-19.54.06:785][  0]LogStreaming: Display: Took  0.343s to InitEngineTextLocalization.
+[2019.01.11-19.54.06:785][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.11-19.54.06:825][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.11-19.54.06:825][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.11-19.54.07:089][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.11-19.54.07:089][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.11-19.54.07:146][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.11-19.54.07:146][  0]LogD3D11RHI:       6052/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.11-19.54.07:148][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.11-19.54.07:148][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.11-19.54.07:148][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.11-19.54.07:154][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.11-19.54.07:154][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.11-19.54.07:154][  0]LogWindows: EnumDisplayDevices:
+[2019.01.11-19.54.07:154][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.11-19.54.07:155][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.11-19.54.07:155][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.11-19.54.07:155][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.11-19.54.07:155][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.11-19.54.07:155][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.11-19.54.07:155][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.01.11-19.54.07:155][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.01.11-19.54.07:155][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.11-19.54.07:187][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.11-19.54.07:202][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.11-19.54.07:254][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Intermediate/Shaders/WorkingDirectory/15488/).
+[2019.01.11-19.54.07:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/026204A543F31A64607684BCD35BED2A/'.
+[2019.01.11-19.54.07:490][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.11-19.54.07:501][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.11-19.54.07:512][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.11-19.54.07:524][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.11-19.54.07:536][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.11-19.54.07:548][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.11-19.54.07:560][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.11-19.54.07:573][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.11-19.54.07:578][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-19.54.07:650][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.11-19.54.07:709][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.11-19.54.07:709][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.11-19.54.07:729][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.11-19.54.07:729][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.11-19.54.07:741][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.11-19.54.07:753][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.11-19.54.07:765][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.11-19.54.07:778][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.11-19.54.07:787][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.11-19.54.07:787][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.11-19.54.07:836][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.11-19.54.07:836][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.11-19.54.07:837][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.11-19.54.07:837][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.11-19.54.08:477][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.11-19.54.08:527][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.11-19.54.08:528][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.11-19.54.08:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.11-19.54.08:528][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.11-19.54.08:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.11-19.54.08:528][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.11-19.54.08:540][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.11-19.54.08:552][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.11-19.54.08:552][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.11-19.54.08:552][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.11-19.54.08:569][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.11-19.54.08:570][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.11-19.54.08:571][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.11-19.54.08:650][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2019.01.11-19.54.08:928][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.11-19.54.09:051][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.11-19.54.09:056][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.11-19.54.09:056][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.11-19.54.09:056][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.11-19.54.09:056][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.11-19.54.09:084][  0]LogNetVersion: SizeManipulation 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1313572682)
+[2019.01.11-19.54.09:584][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.098728 seconds
+[2019.01.11-19.54.09:590][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.11-19.54.09:590][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.11-19.54.09:590][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.11-19.54.10:508][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.11-19.54.10:522][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.11-19.54.10:923][  0]SourceControl: Source control is disabled
+[2019.01.11-19.54.10:923][  0]SourceControl: Source control is disabled
+[2019.01.11-19.54.10:924][  0]SourceControl: Source control is disabled
+[2019.01.11-19.54.10:925][  0]SourceControl: Source control is disabled
+[2019.01.11-19.54.11:087][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.11-19.54.11:131][  0]LogOcInput: OculusInput pre-init called
+[2019.01.11-19.54.11:185][  0]LogEngine: Initializing Engine...
+[2019.01.11-19.54.11:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.11-19.54.11:187][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.11-19.54.11:187][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.11-19.54.11:188][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.11-19.54.11:188][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.11-19.54.11:376][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.11-19.54.11:385][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.11-19.54.11:440][  0]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-19.54.11:451][  0]LogInit: FAudioDevice initialized.
+[2019.01.11-19.54.11:451][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.11-19.54.11:577][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.11-19.54.11:584][  0]LogInit: Texture streaming: Enabled
+[2019.01.11-19.54.11:598][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.11-19.54.11:598][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={DDCF1F5E-42AE-79E3-AB96-DD8753B0D70C}
+[2019.01.11-19.54.11:607][  0]LogInit: Transaction tracking system initialized
+[2019.01.11-19.54.11:622][  0]BlueprintLog: New page: Editor Load
+[2019.01.11-19.54.11:709][  0]LocalizationService: Localization service is disabled
+[2019.01.11-19.54.11:979][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.11-19.54.11:979][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.11-19.54.11:979][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.11-19.54.11:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.11-19.54.11:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.11-19.54.11:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.11-19.54.11:979][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.11-19.54.12:079][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/' took 0.01s
+[2019.01.11-19.54.12:079][  0]SourceControl: Source control is disabled
+[2019.01.11-19.54.12:079][  0]Cmd: MAP LOAD FILE="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.11-19.54.12:080][  0]LightingResults: New page: Lighting Build
+[2019.01.11-19.54.12:082][  0]MapCheck: New page: Map Check
+[2019.01.11-19.54.12:082][  0]LightingResults: New page: Lighting Build
+[2019.01.11-19.54.12:250][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-19.54.12:257][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.11-19.54.12:277][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.11-19.54.12:342][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.677ms to complete.
+[2019.01.11-19.54.12:342][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.263
+[2019.01.11-19.54.12:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.54.12:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.54.12:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.54.12:553][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.54.12:559][  0]LogCollectionManager: Loaded 0 collections in 0.001135 seconds
+[2019.01.11-19.54.12:623][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Saved/Collections/' took 0.01s
+[2019.01.11-19.54.12:623][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Developers/User/Collections/' took 0.01s
+[2019.01.11-19.54.12:623][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Collections/' took 0.01s
+[2019.01.11-19.54.12:623][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.11-19.54.12:642][  0]LogContentBrowser: Native class hierarchy populated in 0.0185 seconds. Added 2576 classes and 605 folders.
+[2019.01.11-19.54.12:648][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.11-19.54.12:708][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.11-19.54.12:739][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.11-19.54.12:753][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.11-19.54.12:756][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.11-19.54.12:761][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.11-19.54.12:832][  0]LogRenderer: Reallocating scene render targets to support 1196x548 Format 10 NumSamples 1 (Frame:1).
+[2019.01.11-19.54.12:959][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.11-19.54.12:959][  0]LogLoad: (Engine Initialization) Total time: 8.38 seconds
+[2019.01.11-19.54.12:959][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.11-19.54.12:969][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.11-19.54.12:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.11-19.54.13:039][  0]LogRenderer: Reallocating scene render targets to support 1196x564 Format 10 NumSamples 1 (Frame:3).
+[2019.01.11-19.54.13:039][  0]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.11-19.54.13:054][  1]LogAssetRegistry: Asset discovery search completed in 4.4269 seconds
+[2019.01.11-19.54.13:056][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.11-19.54.13:056][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.01.11-19.54.15:079][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-19.54.15:198][250]Candidate modules for hot reload:
+[2019.01.11-19.54.15:198][250]  SizeManipulation
+[2019.01.11-19.54.15:198][250]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,2480 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-19.54.15:202][250]Warning: Starting HotReload took  0.0s.
+[2019.01.11-19.54.18:448][638]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 3:54:18 AM
+[2019.01.11-19.54.18:448][638]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-19.54.18:448][638]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-19.54.18:448][638]CompilerResultsLog:   [1/3] SizeManipulationHUD.cpp
+[2019.01.11-19.54.18:448][638]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-2480.lib
+[2019.01.11-19.54.18:448][638]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2480.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2480.exp
+[2019.01.11-19.54.18:448][638]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-2480.dll
+[2019.01.11-19.54.18:448][638]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2480.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2480.suppressed.exp
+[2019.01.11-19.54.18:448][638]CompilerResultsLog: Total build time: 2.99 seconds (Parallel executor: 1.56 seconds)
+[2019.01.11-19.54.18:448][638]LogMainFrame: MainFrame: Module compiling took 3.259 seconds
+[2019.01.11-19.54.18:479][638]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.11-19.54.18:481][638]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-19.54.18:629][638]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-19.54.18:630][638]Display: HotReload took  3.5s.
+[2019.01.11-19.54.19:950][795]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-19.54.19:960][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.54.19:960][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-19.54.19:972][795]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 3:54:19 AM)
+[2019.01.11-19.54.19:972][795]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-19.54.19:990][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017783s)
+[2019.01.11-19.54.19:991][795]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-19.54.19:991][795]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2019.01.11-19.54.19:991][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018857s)
+[2019.01.11-19.54.20:014][795]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-19.54.20:023][795]LogInit: FAudioDevice initialized.
+[2019.01.11-19.54.20:065][795]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-19.54.20:067][795]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-11.54.20
+[2019.01.11-19.54.20:068][795]LogWorld: Bringing up level for play took: 0.002158
+[2019.01.11-19.54.20:104][795]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.01.11-19.54.20:105][795]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.393
+[2019.01.11-19.54.20:105][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.54.30:940][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.54.30:941][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.54.30:971][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-19.54.30:972][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.54.30:993][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.54.31:044][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.11-19.56.00:270][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-19.56.00:367][504]Candidate modules for hot reload:
+[2019.01.11-19.56.00:367][504]  SizeManipulation
+[2019.01.11-19.56.00:367][504]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,5179 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-19.56.00:371][504]Warning: Starting HotReload took  0.0s.
+[2019.01.11-19.56.03:743][896]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 3:56:03 AM
+[2019.01.11-19.56.03:743][896]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-19.56.03:743][896]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-19.56.03:743][896]CompilerResultsLog:   [1/3] SizeManipulationHUD.cpp
+[2019.01.11-19.56.03:743][896]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-5179.lib
+[2019.01.11-19.56.03:743][896]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-5179.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-5179.exp
+[2019.01.11-19.56.03:743][896]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-5179.dll
+[2019.01.11-19.56.03:743][896]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-5179.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-5179.suppressed.exp
+[2019.01.11-19.56.03:743][896]CompilerResultsLog: Total build time: 3.12 seconds (Parallel executor: 1.60 seconds)
+[2019.01.11-19.56.03:743][896]LogMainFrame: MainFrame: Module compiling took 3.388 seconds
+[2019.01.11-19.56.03:773][896]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.01.11-19.56.03:775][896]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-19.56.03:823][896]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-19.56.03:823][896]Display: HotReload took  3.5s.
+[2019.01.11-19.56.05:593][107]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-19.56.05:602][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.05:602][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-19.56.05:603][107]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 3:56:05 AM)
+[2019.01.11-19.56.05:603][107]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-19.56.05:614][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011548s)
+[2019.01.11-19.56.05:615][107]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-19.56.05:615][107]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.01.11-19.56.05:615][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012538s)
+[2019.01.11-19.56.05:638][107]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-19.56.05:646][107]LogInit: FAudioDevice initialized.
+[2019.01.11-19.56.05:683][107]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-19.56.05:685][107]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-11.56.05
+[2019.01.11-19.56.05:686][107]LogWorld: Bringing up level for play took: 0.001641
+[2019.01.11-19.56.05:698][107]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.8
+[2019.01.11-19.56.05:698][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.07:529][324]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:537][325]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:546][326]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:554][327]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:561][328]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:570][329]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:579][330]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:587][331]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:595][332]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:604][333]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:612][334]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:621][335]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.07:629][336]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:537][565]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:546][566]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:554][567]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:562][568]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:571][569]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:579][570]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:587][571]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:595][572]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:604][573]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:612][574]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:620][575]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:629][576]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:637][577]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:645][578]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:654][579]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:662][580]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:670][581]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:679][582]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.09:687][583]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.11:296][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.11:297][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.56.11:327][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-19.56.11:327][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.11:348][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.56.11:401][780]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.11-19.56.12:301][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-19.56.12:308][888]LogSlate: Took 0.004465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.11-19.56.18:701][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-19.56.18:710][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.18:711][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-19.56.18:711][650]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 3:56:18 AM)
+[2019.01.11-19.56.18:711][650]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-19.56.18:722][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010963s)
+[2019.01.11-19.56.18:723][650]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-19.56.18:723][650]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2019.01.11-19.56.18:724][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012459s)
+[2019.01.11-19.56.18:748][650]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-19.56.18:755][650]LogInit: FAudioDevice initialized.
+[2019.01.11-19.56.18:784][650]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-19.56.18:786][650]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-11.56.18
+[2019.01.11-19.56.18:787][650]LogWorld: Bringing up level for play took: 0.001817
+[2019.01.11-19.56.18:800][650]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.302
+[2019.01.11-19.56.18:800][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.22:695][115]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.22:703][116]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.22:712][117]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.22:720][118]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.22:728][119]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.22:737][120]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.24:887][378]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.24:895][379]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.24:903][380]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.24:912][381]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.24:920][382]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.25:796][487]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.25:804][488]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.25:812][489]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.25:820][490]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.25:828][491]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.26:557][578]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.26:565][579]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.26:574][580]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.26:582][581]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.26:590][582]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.26:599][583]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:207][656]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:215][657]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:223][658]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:232][659]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:240][660]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:249][661]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.27:257][662]LogTemp: Warning: Does this crash?
+[2019.01.11-19.56.28:666][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.28:667][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.56.28:701][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-19.56.28:702][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.56.28:724][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.56.28:773][836]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.11-19.59.10:279][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-19.59.10:524][460]Candidate modules for hot reload:
+[2019.01.11-19.59.10:524][460]  SizeManipulation
+[2019.01.11-19.59.10:524][460]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,8564 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-19.59.10:529][460]Warning: Starting HotReload took  0.0s.
+[2019.01.11-19.59.13:850][853]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 3:59:13 AM
+[2019.01.11-19.59.13:850][853]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-19.59.13:851][853]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-19.59.13:851][853]CompilerResultsLog:   [1/3] SizeManipulationHUD.cpp
+[2019.01.11-19.59.13:851][853]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-8564.lib
+[2019.01.11-19.59.13:851][853]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-8564.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-8564.exp
+[2019.01.11-19.59.13:851][853]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-8564.dll
+[2019.01.11-19.59.13:851][853]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-8564.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-8564.suppressed.exp
+[2019.01.11-19.59.13:852][853]CompilerResultsLog: Total build time: 3.04 seconds (Parallel executor: 1.58 seconds)
+[2019.01.11-19.59.13:852][853]LogMainFrame: MainFrame: Module compiling took 3.337 seconds
+[2019.01.11-19.59.13:887][853]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.11-19.59.13:889][853]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-19.59.13:941][853]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-19.59.13:941][853]Display: HotReload took  3.4s.
+[2019.01.11-19.59.16:043][105]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-19.59.16:054][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.16:054][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-19.59.16:054][105]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 3:59:16 AM)
+[2019.01.11-19.59.16:055][105]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-19.59.16:067][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012387s)
+[2019.01.11-19.59.16:068][105]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-19.59.16:068][105]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2019.01.11-19.59.16:068][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013688s)
+[2019.01.11-19.59.16:091][105]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-19.59.16:100][105]LogInit: FAudioDevice initialized.
+[2019.01.11-19.59.16:128][105]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-19.59.16:131][105]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-11.59.16
+[2019.01.11-19.59.16:131][105]LogWorld: Bringing up level for play took: 0.002354
+[2019.01.11-19.59.16:145][105]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.353
+[2019.01.11-19.59.16:145][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.17:401][253]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:408][254]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:417][255]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:425][256]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:434][257]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:442][258]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:450][259]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:458][260]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:467][261]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:475][262]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:484][263]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:492][264]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:500][265]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:509][266]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:517][267]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:525][268]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:533][269]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.17:541][270]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:109][578]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:117][579]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:125][580]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:134][581]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:142][582]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:151][583]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:159][584]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:167][585]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:176][586]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:184][587]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:192][588]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:200][589]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:208][590]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:218][591]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:226][592]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:234][593]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:242][594]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:384][611]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:392][612]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:401][613]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:409][614]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:417][615]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:426][616]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:434][617]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:442][618]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:451][619]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:459][620]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:466][621]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:475][622]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:483][623]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:492][624]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:500][625]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:508][626]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:517][627]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:667][645]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:675][646]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:684][647]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:692][648]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:700][649]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:709][650]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:717][651]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:725][652]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:733][653]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:742][654]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:751][655]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:758][656]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:767][657]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:775][658]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:900][673]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:908][674]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:917][675]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:925][676]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:933][677]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:942][678]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:950][679]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:958][680]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:967][681]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:975][682]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:983][683]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.20:992][684]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:000][685]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:008][686]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:150][703]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:159][704]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:167][705]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:175][706]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:184][707]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:192][708]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:200][709]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:209][710]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:217][711]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:225][712]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:234][713]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:242][714]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:401][733]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:409][734]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:417][735]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:426][736]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:434][737]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:442][738]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:450][739]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:459][740]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:467][741]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:475][742]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:484][743]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:492][744]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:650][763]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:658][764]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:667][765]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:675][766]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:684][767]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:692][768]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:700][769]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:709][770]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:717][771]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:725][772]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:734][773]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:742][774]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:751][775]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:759][776]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:884][791]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:892][792]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:901][793]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:909][794]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:917][795]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:926][796]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:934][797]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:942][798]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:951][799]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:959][800]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:968][801]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:976][802]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.21:984][803]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:125][820]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:134][821]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:142][822]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:150][823]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:159][824]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:167][825]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:175][826]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:184][827]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:192][828]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:200][829]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:651][883]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:659][884]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:668][885]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:676][886]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:684][887]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:693][888]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:700][889]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:709][890]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:717][891]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:726][892]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:734][893]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:742][894]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:751][895]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:759][896]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:767][897]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:776][898]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:784][899]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:792][900]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:801][901]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:809][902]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.22:817][903]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:000][925]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:009][926]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:017][927]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:025][928]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:034][929]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:042][930]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:050][931]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:059][932]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:067][933]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:075][934]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:084][935]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:092][936]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:101][937]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:109][938]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:117][939]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:226][952]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:234][953]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:242][954]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:251][955]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:259][956]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:267][957]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:276][958]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:284][959]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:292][960]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:301][961]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:309][962]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:317][963]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:326][964]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:334][965]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.23:342][966]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.27:061][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.27:061][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.59.27:096][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-19.59.27:096][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.27:117][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.59.27:162][416]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.11-19.59.28:349][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-19.59.30:510][814]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-19.59.30:521][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.30:521][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-19.59.30:521][814]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 3:59:30 AM)
+[2019.01.11-19.59.30:521][814]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-19.59.30:531][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009460s)
+[2019.01.11-19.59.30:531][814]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-19.59.30:532][814]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.01.11-19.59.30:532][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010576s)
+[2019.01.11-19.59.30:556][814]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-19.59.30:563][814]LogInit: FAudioDevice initialized.
+[2019.01.11-19.59.30:592][814]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-19.59.30:594][814]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-11.59.30
+[2019.01.11-19.59.30:594][814]LogWorld: Bringing up level for play took: 0.001455
+[2019.01.11-19.59.30:607][814]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.109
+[2019.01.11-19.59.30:607][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.32:698][ 62]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:706][ 63]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:714][ 64]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:721][ 65]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:730][ 66]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:738][ 67]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:747][ 68]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:755][ 69]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:763][ 70]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:772][ 71]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:780][ 72]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:788][ 73]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:797][ 74]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:805][ 75]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:814][ 76]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:822][ 77]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:830][ 78]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:839][ 79]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:847][ 80]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:856][ 81]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:864][ 82]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:872][ 83]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:881][ 84]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:889][ 85]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:897][ 86]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:905][ 87]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:914][ 88]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:921][ 89]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:931][ 90]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:938][ 91]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:947][ 92]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:955][ 93]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:964][ 94]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:972][ 95]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:980][ 96]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:988][ 97]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.32:996][ 98]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:005][ 99]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:014][100]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:021][101]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:031][102]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:038][103]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:047][104]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:055][105]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:063][106]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:072][107]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:080][108]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:089][109]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:097][110]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:106][111]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:114][112]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:122][113]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:131][114]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:139][115]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:148][116]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:155][117]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:163][118]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:171][119]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:181][120]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:189][121]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:198][122]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:205][123]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:214][124]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:222][125]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:230][126]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:239][127]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:247][128]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:256][129]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:264][130]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:272][131]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:281][132]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:289][133]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:297][134]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:305][135]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:314][136]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:322][137]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:330][138]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:339][139]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:347][140]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:355][141]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:363][142]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:372][143]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:380][144]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:389][145]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:397][146]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:405][147]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:414][148]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:422][149]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:430][150]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:439][151]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:447][152]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:456][153]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:464][154]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:472][155]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:481][156]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:489][157]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:497][158]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:505][159]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:514][160]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:522][161]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:530][162]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:538][163]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:547][164]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:555][165]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:564][166]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:572][167]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:580][168]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:589][169]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:597][170]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.33:605][171]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:356][381]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:364][382]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:373][383]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:381][384]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:389][385]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:398][386]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:406][387]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:415][388]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:423][389]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:431][390]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:439][391]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:447][392]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:455][393]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:464][394]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:472][395]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:480][396]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:489][397]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:498][398]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:505][399]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:514][400]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:522][401]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:530][402]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:539][403]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:547][404]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:556][405]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:564][406]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:573][407]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:581][408]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:590][409]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:598][410]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:606][411]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:614][412]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:622][413]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:631][414]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:639][415]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:647][416]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:655][417]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:664][418]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:672][419]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:680][420]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:689][421]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:697][422]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:705][423]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:714][424]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:722][425]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:731][426]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:739][427]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:747][428]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:756][429]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:764][430]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:772][431]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:781][432]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:789][433]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:798][434]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:805][435]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:814][436]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:822][437]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:830][438]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:839][439]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:847][440]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:856][441]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:865][442]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:873][443]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:882][444]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:890][445]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:898][446]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:905][447]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:914][448]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:922][449]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:930][450]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:939][451]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:947][452]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:955][453]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:964][454]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:972][455]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:981][456]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:989][457]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.35:998][458]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:006][459]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:014][460]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:022][461]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:031][462]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:039][463]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:048][464]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:056][465]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:065][466]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:073][467]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:081][468]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:090][469]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:098][470]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:105][471]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:114][472]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:122][473]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:131][474]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:139][475]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:147][476]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:156][477]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:164][478]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:172][479]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:181][480]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:190][481]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:198][482]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:206][483]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:215][484]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:223][485]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:231][486]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:239][487]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:248][488]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:255][489]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:264][490]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:272][491]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:281][492]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:290][493]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:298][494]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:306][495]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:315][496]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:322][497]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:331][498]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:339][499]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:348][500]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:355][501]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:364][502]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:372][503]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:381][504]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:390][505]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:397][506]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:406][507]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:414][508]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:423][509]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:431][510]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:439][511]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:447][512]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:456][513]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:464][514]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:472][515]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:481][516]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:489][517]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:497][518]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:506][519]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:514][520]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:523][521]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:531][522]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:539][523]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.36:548][524]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:156][717]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:164][718]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:172][719]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:181][720]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:190][721]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:198][722]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:207][723]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:215][724]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:222][725]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:231][726]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:239][727]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:248][728]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:256][729]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:265][730]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:273][731]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:281][732]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:290][733]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:298][734]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:306][735]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:315][736]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:323][737]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:331][738]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:340][739]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:348][740]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:356][741]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:365][742]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:373][743]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:381][744]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:390][745]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:398][746]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:407][747]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:415][748]LogTemp: Warning: Does this crash?
+[2019.01.11-19.59.38:749][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.38:750][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.59.38:783][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-19.59.38:784][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-19.59.38:805][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-19.59.38:853][791]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.11-20.00.48:647][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-20.00.48:762][527]Candidate modules for hot reload:
+[2019.01.11-20.00.48:762][527]  SizeManipulation
+[2019.01.11-20.00.48:762][527]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,7721 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-20.00.48:767][527]Warning: Starting HotReload took  0.0s.
+[2019.01.11-20.00.52:111][927]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 4:00:52 AM
+[2019.01.11-20.00.52:111][927]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-20.00.52:111][927]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-20.00.52:111][927]CompilerResultsLog:   [1/3] SizeManipulationHUD.cpp
+[2019.01.11-20.00.52:111][927]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-7721.lib
+[2019.01.11-20.00.52:112][927]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7721.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7721.exp
+[2019.01.11-20.00.52:112][927]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-7721.dll
+[2019.01.11-20.00.52:112][927]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7721.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7721.suppressed.exp
+[2019.01.11-20.00.52:113][927]CompilerResultsLog: Total build time: 3.08 seconds (Parallel executor: 1.59 seconds)
+[2019.01.11-20.00.52:113][927]LogMainFrame: MainFrame: Module compiling took 3.359 seconds
+[2019.01.11-20.00.52:144][927]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.11-20.00.52:146][927]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-20.00.52:194][927]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-20.00.52:194][927]Display: HotReload took  3.4s.
+[2019.01.11-20.00.55:579][333]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-20.00.55:590][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.00.55:590][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-20.00.55:591][333]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 4:00:55 AM)
+[2019.01.11-20.00.55:591][333]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-20.00.55:603][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011591s)
+[2019.01.11-20.00.55:603][333]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-20.00.55:603][333]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2019.01.11-20.00.55:604][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012710s)
+[2019.01.11-20.00.55:627][333]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-20.00.55:636][333]LogInit: FAudioDevice initialized.
+[2019.01.11-20.00.55:667][333]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-20.00.55:670][333]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-12.00.55
+[2019.01.11-20.00.55:671][333]LogWorld: Bringing up level for play took: 0.002156
+[2019.01.11-20.00.55:684][333]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.814
+[2019.01.11-20.00.55:684][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.00.57:700][572]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:707][573]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:716][574]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:724][575]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:732][576]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:740][577]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:749][578]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:757][579]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:766][580]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:774][581]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:782][582]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:791][583]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:799][584]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:807][585]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:816][586]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:824][587]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:832][588]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.57:841][589]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.58:516][670]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:524][671]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:532][672]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:541][673]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:549][674]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:557][675]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:566][676]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:574][677]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:582][678]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:591][679]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:599][680]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:607][681]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:616][682]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:624][683]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:633][684]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:641][685]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:649][686]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:658][687]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:666][688]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:674][689]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:683][690]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:691][691]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:699][692]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:708][693]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:716][694]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.58:725][695]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:083][738]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:091][739]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:100][740]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:108][741]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:116][742]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:124][743]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:133][744]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:141][745]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:150][746]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:158][747]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:166][748]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:175][749]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:183][750]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:191][751]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:200][752]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:208][753]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:216][754]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:225][755]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:233][756]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:241][757]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:249][758]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:257][759]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:266][760]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:274][761]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:282][762]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:291][763]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:299][764]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:307][765]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:316][766]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:324][767]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:332][768]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:341][769]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:349][770]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:357][771]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:366][772]LogTemp: Warning: Cycle Right
+[2019.01.11-20.00.59:650][806]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:658][807]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:666][808]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:675][809]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:683][810]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:691][811]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:700][812]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:708][813]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:716][814]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:725][815]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:733][816]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:741][817]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:750][818]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:758][819]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:766][820]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:775][821]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:783][822]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:791][823]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:800][824]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:808][825]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:817][826]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:825][827]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:832][828]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:841][829]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:849][830]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:857][831]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:866][832]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:874][833]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:882][834]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:891][835]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:899][836]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:907][837]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:916][838]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:924][839]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:933][840]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:941][841]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:949][842]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:958][843]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:966][844]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:974][845]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:983][846]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:991][847]LogTemp: Warning: Cycle Left
+[2019.01.11-20.00.59:999][848]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:008][849]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:016][850]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:024][851]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:033][852]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:200][872]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:208][873]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:216][874]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:224][875]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:233][876]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:241][877]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:249][878]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:258][879]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:266][880]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:274][881]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:283][882]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:291][883]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:299][884]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:308][885]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:316][886]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:324][887]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:333][888]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:341][889]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:350][890]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:358][891]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:367][892]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:375][893]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:383][894]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:392][895]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:400][896]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:408][897]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:417][898]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:425][899]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:433][900]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:442][901]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:450][902]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:458][903]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:466][904]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:475][905]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:483][906]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:491][907]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:500][908]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:508][909]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:516][910]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:524][911]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:533][912]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:541][913]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:550][914]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:558][915]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:567][916]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:575][917]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:583][918]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:592][919]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:600][920]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:608][921]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:617][922]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.00:658][927]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:667][928]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:675][929]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:684][930]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:691][931]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:699][932]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:707][933]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:716][934]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:724][935]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:733][936]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:741][937]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:749][938]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:758][939]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:766][940]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:774][941]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:783][942]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:791][943]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:800][944]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:808][945]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:816][946]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:825][947]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:833][948]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:842][949]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:850][950]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:858][951]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:867][952]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:875][953]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:883][954]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:891][955]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:900][956]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:908][957]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:917][958]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:925][959]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:934][960]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:942][961]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:949][962]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:958][963]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:967][964]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:975][965]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:983][966]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.00:991][967]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:000][968]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:008][969]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:017][970]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:025][971]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:033][972]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:042][973]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:050][974]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:058][975]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:067][976]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:075][977]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:083][978]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:091][979]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:100][980]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:108][981]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:117][982]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:125][983]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:134][984]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:142][985]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:149][986]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:158][987]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:166][988]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:174][989]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:183][990]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:191][991]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:200][992]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:208][993]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:216][994]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:224][995]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:233][996]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:241][997]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:249][998]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:258][999]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:266][  0]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:275][  1]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:283][  2]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:300][  4]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:308][  5]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:317][  6]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:325][  7]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:334][  8]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:342][  9]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:350][ 10]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:359][ 11]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:367][ 12]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:375][ 13]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:383][ 14]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:391][ 15]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:400][ 16]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:408][ 17]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:416][ 18]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:425][ 19]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:433][ 20]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:450][ 22]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:458][ 23]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:467][ 24]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:475][ 25]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:483][ 26]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:491][ 27]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:500][ 28]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:508][ 29]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:517][ 30]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:525][ 31]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:534][ 32]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:542][ 33]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:550][ 34]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:559][ 35]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:583][ 38]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:591][ 39]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:600][ 40]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:608][ 41]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:617][ 42]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:625][ 43]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:633][ 44]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:642][ 45]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:650][ 46]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:658][ 47]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:667][ 48]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:675][ 49]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:683][ 50]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:700][ 52]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:708][ 53]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:717][ 54]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:725][ 55]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:733][ 56]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:742][ 57]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:750][ 58]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:758][ 59]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:767][ 60]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:775][ 61]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:783][ 62]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:800][ 64]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:808][ 65]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:817][ 66]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:825][ 67]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:833][ 68]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:841][ 69]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:849][ 70]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:858][ 71]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:867][ 72]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:875][ 73]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:883][ 74]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:891][ 75]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.01:917][ 78]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:925][ 79]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:934][ 80]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:942][ 81]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:950][ 82]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:958][ 83]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:967][ 84]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:974][ 85]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:983][ 86]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.01:991][ 87]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:033][ 92]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:041][ 93]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:050][ 94]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:058][ 95]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:067][ 96]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:075][ 97]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:083][ 98]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:092][ 99]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:100][100]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:108][101]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:117][102]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:125][103]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:150][106]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:158][107]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:167][108]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:175][109]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:183][110]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:191][111]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:200][112]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:208][113]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:217][114]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:225][115]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:233][116]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:258][119]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:266][120]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:275][121]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:283][122]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:291][123]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:300][124]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:308][125]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:317][126]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:325][127]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:334][128]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:341][129]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:350][130]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:367][132]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:375][133]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:383][134]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:392][135]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:400][136]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:408][137]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:417][138]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:425][139]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:433][140]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:442][141]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:450][142]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:459][143]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:467][144]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:484][146]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:492][147]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:500][148]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:509][149]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:517][150]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:524][151]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:533][152]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:541][153]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:550][154]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:558][155]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:567][156]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:574][157]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:583][158]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:600][160]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:608][161]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:617][162]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:625][163]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:634][164]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:642][165]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:650][166]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:659][167]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:667][168]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:675][169]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:684][170]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:692][171]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:716][174]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:724][175]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:733][176]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:741][177]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:749][178]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:758][179]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:767][180]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:775][181]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:783][182]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:792][183]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:800][184]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:808][185]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:817][186]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:825][187]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:834][188]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:842][189]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:850][190]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:858][191]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:867][192]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:875][193]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:884][194]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:892][195]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:900][196]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.02:925][199]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:933][200]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:941][201]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:950][202]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:958][203]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:967][204]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:975][205]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:983][206]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.02:992][207]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:034][212]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:041][213]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:050][214]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:058][215]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:066][216]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:075][217]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:083][218]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:091][219]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:100][220]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:108][221]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:117][222]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:125][223]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:134][224]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:141][225]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:167][228]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:175][229]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:183][230]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:191][231]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:200][232]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:208][233]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:217][234]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:225][235]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:233][236]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:242][237]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:258][239]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:267][240]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:275][241]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:283][242]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:292][243]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:300][244]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:308][245]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:317][246]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:325][247]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:334][248]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:342][249]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:350][250]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:359][251]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:367][252]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:375][253]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:384][254]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:392][255]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:400][256]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:416][258]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:424][259]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:433][260]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:441][261]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:450][262]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:458][263]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:466][264]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:475][265]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:483][266]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:491][267]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:500][268]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:517][270]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:525][271]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:533][272]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:541][273]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:550][274]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:558][275]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:567][276]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:575][277]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:583][278]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:592][279]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:600][280]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:608][281]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:617][282]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:650][286]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:658][287]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:667][288]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:675][289]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:684][290]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:692][291]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:700][292]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:717][294]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:725][295]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:734][296]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:742][297]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:750][298]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:759][299]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:767][300]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:774][301]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:783][302]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:791][303]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:800][304]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:808][305]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:816][306]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:825][307]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:833][308]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:850][310]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:858][311]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:866][312]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:875][313]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:883][314]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:891][315]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:900][316]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:908][317]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:917][318]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:925][319]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:933][320]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:942][321]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:950][322]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.03:967][324]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:975][325]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:984][326]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.03:992][327]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:000][328]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:008][329]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:017][330]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:025][331]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:034][332]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:042][333]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:050][334]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:059][335]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:067][336]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:084][338]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:092][339]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:100][340]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:109][341]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:117][342]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:125][343]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:134][344]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:142][345]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:150][346]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:158][347]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:183][350]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:191][351]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:200][352]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:208][353]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:217][354]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:225][355]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:233][356]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:241][357]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:250][358]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:258][359]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:267][360]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:275][361]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:292][363]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:300][364]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:308][365]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:317][366]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:325][367]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:334][368]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:342][369]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:350][370]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:358][371]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:367][372]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:375][373]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:384][374]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:392][375]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:400][376]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:409][377]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:417][378]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:425][379]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:434][380]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:442][381]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:451][382]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:459][383]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:467][384]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:475][385]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:501][388]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:509][389]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:517][390]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:525][391]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:533][392]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:541][393]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:550][394]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:558][395]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:566][396]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:575][397]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:583][398]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:608][401]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:616][402]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:625][403]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:633][404]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:642][405]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:650][406]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:658][407]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:667][408]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:675][409]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:683][410]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:692][411]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:725][415]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:734][416]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:742][417]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:750][418]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:759][419]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:767][420]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:775][421]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:784][422]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:792][423]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:800][424]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:817][426]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:825][427]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:834][428]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:842][429]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:851][430]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:859][431]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:867][432]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:876][433]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:883][434]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:891][435]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:900][436]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:908][437]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.04:942][441]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:950][442]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:958][443]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:967][444]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:975][445]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:983][446]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.04:992][447]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:001][448]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:009][449]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:017][450]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:026][451]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:034][452]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:042][453]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:059][455]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:067][456]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:075][457]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:083][458]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:091][459]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:100][460]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:109][461]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:117][462]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:125][463]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:134][464]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:167][468]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:175][469]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:184][470]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:192][471]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:201][472]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:209][473]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:217][474]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:226][475]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:234][476]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:242][477]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:251][478]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:259][479]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:266][480]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:275][481]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:283][482]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:291][483]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:300][484]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:308][485]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:317][486]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:325][487]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:333][488]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:375][493]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:384][494]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:392][495]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:400][496]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:408][497]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:417][498]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:425][499]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:434][500]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:442][501]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:450][502]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:459][503]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:475][505]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:484][506]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:492][507]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:500][508]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:509][509]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:517][510]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:525][511]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:534][512]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:542][513]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:551][514]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:559][515]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:567][516]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:576][517]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:609][521]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:617][522]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:626][523]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:634][524]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:641][525]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:650][526]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:658][527]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:667][528]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:675][529]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:683][530]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:692][531]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:708][533]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:717][534]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:725][535]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:733][536]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:742][537]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:750][538]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:758][539]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:767][540]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:775][541]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:784][542]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:792][543]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:809][545]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:817][546]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:825][547]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:834][548]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:842][549]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:850][550]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:859][551]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:867][552]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:875][553]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:884][554]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:892][555]LogTemp: Warning: Cycle Left
+[2019.01.11-20.01.05:909][557]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:917][558]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:926][559]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:934][560]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:942][561]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:951][562]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:959][563]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:967][564]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:976][565]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:984][566]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.05:992][567]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.06:001][568]LogTemp: Warning: Cycle Right
+[2019.01.11-20.01.09:826][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.01.09:827][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.01.09:861][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-20.01.09:861][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.01.09:884][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.01.09:926][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.11-20.11.21:881][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.11-20.11.25:416][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.11-20.11.28:191][522]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SizeManipulation
+[2019.01.11-20.11.28:191][522]LogTemp: CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.01.11-20.11.28:191][522]LogTemp: Initial Dir: D:\Epic Games\UE_4.20
+[2019.01.11-20.11.28:191][522]LogTemp: Env CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.01.11-20.11.28:191][522]LogTemp: BranchPath = IRONSIDE/D/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = IRONSIDE/D/Epic Games/UE_4.20/Engine/Binaries
+[2019.01.11-20.11.28:191][522]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.11-20.11.28:192][522]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.11-20.12.31:764][ 21]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.11-20.12.31:769][ 21]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.11-20.18.41:267][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-20.18.41:370][205]Candidate modules for hot reload:
+[2019.01.11-20.18.41:370][205]  SizeManipulation
+[2019.01.11-20.18.41:370][205]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,5347 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-20.18.41:375][205]Warning: Starting HotReload took  0.0s.
+[2019.01.11-20.19.01:296][587]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 4:19:01 AM
+[2019.01.11-20.19.01:296][587]CompilerResultsLog: Creating makefile for hot reloading SizeManipulationEditor (ini files are newer than UBTMakefile)
+[2019.01.11-20.19.01:297][587]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-20.19.01:297][587]CompilerResultsLog: Using Visual Studio 2015 14.0 toolchain (D:\VS\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+[2019.01.11-20.19.01:297][587]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-20.19.01:297][587]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-20.19.01:297][587]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 11.0865654 seconds
+[2019.01.11-20.19.01:298][587]CompilerResultsLog: Building 7 actions with 8 processes...
+[2019.01.11-20.19.01:298][587]CompilerResultsLog:   [1/7] SizeManipulation.init.gen.cpp
+[2019.01.11-20.19.01:298][587]CompilerResultsLog:   [2/7] SizeManipulationCharacter.gen.cpp
+[2019.01.11-20.19.01:298][587]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation/SizeManipulationCharacter.h(97) : error C2365: 'ASizeManipulationCharacter::OnCycleLeft': redefinition; previous definition was 'data member'
+[2019.01.11-20.19.01:299][587]CompilerResultsLog:   D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation/SizeManipulationCharacter.h(86): note: see declaration of 'ASizeManipulationCharacter::OnCycleLeft'
+[2019.01.11-20.19.01:299][587]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation/SizeManipulationCharacter.h(99) : error C2365: 'ASizeManipulationCharacter::OnCycleRight': redefinition; previous definition was 'data member'
+[2019.01.11-20.19.01:299][587]CompilerResultsLog:   D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation/SizeManipulationCharacter.h(89): note: see declaration of 'ASizeManipulationCharacter::OnCycleRight'
+[2019.01.11-20.19.01:300][587]CompilerResultsLog:   [3/7] SizeManipulationGameMode.cpp
+[2019.01.11-20.19.01:300][587]CompilerResultsLog:    d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(97) : error C2365: 'ASizeManipulationCharacter::OnCycleLeft': redefinition; previous definition was 'data member'
+[2019.01.11-20.19.01:300][587]CompilerResultsLog:   d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(86): note: see declaration of 'ASizeManipulationCharacter::OnCycleLeft'
+[2019.01.11-20.19.01:300][587]CompilerResultsLog:    d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(99) : error C2365: 'ASizeManipulationCharacter::OnCycleRight': redefinition; previous definition was 'data member'
+[2019.01.11-20.19.01:301][587]CompilerResultsLog:   d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(89): note: see declaration of 'ASizeManipulationCharacter::OnCycleRight'
+[2019.01.11-20.19.01:301][587]CompilerResultsLog:   [4/7] SizeManipulationHUD.cpp
+[2019.01.11-20.19.01:301][587]CompilerResultsLog:   [5/7] SizeManipulationCharacter.cpp
+[2019.01.11-20.19.01:301][587]CompilerResultsLog:    d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(97) : error C2365: 'ASizeManipulationCharacter::OnCycleLeft': redefinition; previous definition was 'data member'
+[2019.01.11-20.19.01:302][587]CompilerResultsLog:   d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(86): note: see declaration of 'ASizeManipulationCharacter::OnCycleLeft'
+[2019.01.11-20.19.01:302][587]CompilerResultsLog:    d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(99) : error C2365: 'ASizeManipulationCharacter::OnCycleRight': redefinition; previous definition was 'data member'
+[2019.01.11-20.19.01:302][587]CompilerResultsLog:   d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(89): note: see declaration of 'ASizeManipulationCharacter::OnCycleRight'
+[2019.01.11-20.19.01:302][587]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(134) : error C2039: 'OnCycle': is not a member of 'ASizeManipulationCharacter'
+[2019.01.11-20.19.01:303][587]CompilerResultsLog:   d:\my files\the documents\unreal projects\sizemanipulation\source\sizemanipulation\SizeManipulationCharacter.h(14): note: see declaration of 'ASizeManipulationCharacter'
+[2019.01.11-20.19.01:303][587]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(134) : error C2065: 'OnCycle': undeclared identifier
+[2019.01.11-20.19.01:303][587]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(194) : error C2063: 'ASizeManipulationCharacter::OnCycleLeft': not a function
+[2019.01.11-20.19.01:303][587]CompilerResultsLog:    D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulationCharacter.cpp(200) : error C2063: 'ASizeManipulationCharacter::OnCycleRight': not a function
+[2019.01.11-20.19.01:303][587]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-5347.dll
+[2019.01.11-20.19.01:304][587]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.11-20.19.01:304][587]CompilerResultsLog: Total build time: 19.60 seconds (Parallel executor: 0.00 seconds)
+[2019.01.11-20.19.01:304][587]LogMainFrame: MainFrame: Module compiling took 19.944 seconds
+[2019.01.11-20.19.01:304][587]Warning: HotReload failed, recompile failed
+[2019.01.11-20.23.30:538][715]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-20.23.30:543][715]LogSlate: Window 'Message Log' being destroyed
+[2019.01.11-20.23.31:470][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-20.23.31:578][837]Candidate modules for hot reload:
+[2019.01.11-20.23.31:578][837]  SizeManipulation
+[2019.01.11-20.23.31:578][837]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,6403 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-20.23.31:583][837]Warning: Starting HotReload took  0.0s.
+[2019.01.11-20.23.47:230][399]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 4:23:47 AM
+[2019.01.11-20.23.47:230][399]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-20.23.47:230][399]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-20.23.47:230][399]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-20.23.47:230][399]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 11.0808812 seconds
+[2019.01.11-20.23.47:231][399]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:   [1/6] SizeManipulation.init.gen.cpp
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:   [2/6] SizeManipulationCharacter.gen.cpp
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:   [3/6] SizeManipulationGameMode.cpp
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:   [4/6] SizeManipulationCharacter.cpp
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:   [5/6] UE4Editor-SizeManipulation-6403.lib
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-6403.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-6403.exp
+[2019.01.11-20.23.47:231][399]CompilerResultsLog:   [6/6] UE4Editor-SizeManipulation-6403.dll
+[2019.01.11-20.23.47:232][399]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-6403.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-6403.suppressed.exp
+[2019.01.11-20.23.47:232][399]CompilerResultsLog: Total build time: 15.20 seconds (Parallel executor: 2.55 seconds)
+[2019.01.11-20.23.47:232][399]LogMainFrame: MainFrame: Module compiling took 15.663 seconds
+[2019.01.11-20.23.47:255][399]LogClass: Could not find existing class SizeManipulationCharacter in package /Script/SizeManipulation for HotReload, assuming new class
+[2019.01.11-20.23.47:263][399]LogHotReload: Re-instancing SizeManipulationCharacter after hot-reload.
+[2019.01.11-20.23.47:490][399]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.01.11-20.23.47:492][399]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-20.23.47:542][399]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-20.23.47:543][399]Display: HotReload took 16.0s.
+[2019.01.11-20.23.50:152][712]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-20.23.50:162][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.23.50:162][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-20.23.50:163][712]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 4:23:50 AM)
+[2019.01.11-20.23.50:163][712]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-20.23.50:175][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011696s)
+[2019.01.11-20.23.50:176][712]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-20.23.50:176][712]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2019.01.11-20.23.50:176][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013175s)
+[2019.01.11-20.23.50:201][712]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-20.23.50:208][712]LogInit: FAudioDevice initialized.
+[2019.01.11-20.23.50:240][712]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-20.23.50:242][712]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-12.23.50
+[2019.01.11-20.23.50:243][712]LogWorld: Bringing up level for play took: 0.001701
+[2019.01.11-20.23.50:255][712]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.243
+[2019.01.11-20.23.50:255][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.23.51:822][894]LogTemp: Warning: Cycle Right

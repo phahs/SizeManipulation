@@ -1,0 +1,466 @@
+﻿Log file open, 01/11/19 12:29:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SizeManipulation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.271771
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.130s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.11-20.29.36:507][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.11-20.29.36:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.11-20.29.36:516][  0]LogHAL: Display: Platform has ~ 16 GB [17136615424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.11-20.29.36:517][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.11-20.29.36:517][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.11-20.29.36:517][  0]LogInit: Computer: IRONSIDE
+[2019.01.11-20.29.36:517][  0]LogInit: User: User
+[2019.01.11-20.29.36:517][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.11-20.29.36:517][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.01.11-20.29.36:517][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.11-20.29.36:517][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.11-20.29.36:517][  0]LogMemory: Process Physical Memory: 100.80 MB used, 100.80 MB peak
+[2019.01.11-20.29.36:517][  0]LogMemory: Process Virtual Memory: 89.49 MB used, 89.49 MB peak
+[2019.01.11-20.29.36:517][  0]LogMemory: Physical Memory: 7237.70 MB used,  9105.05 MB free, 16342.75 MB total
+[2019.01.11-20.29.36:517][  0]LogMemory: Virtual Memory: 4639.12 MB used,  9105.05 MB free, 134217728.00 MB total
+[2019.01.11-20.29.36:538][  0]LogInit: Using OS detected language (en-US).
+[2019.01.11-20.29.36:538][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.11-20.29.36:539][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.11-20.29.36:872][  0]LogStreaming: Display: Took  0.335s to InitEngineTextLocalization.
+[2019.01.11-20.29.36:872][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.11-20.29.36:909][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.11-20.29.36:909][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.11-20.29.37:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.11-20.29.37:177][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.11-20.29.37:223][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.11-20.29.37:223][  0]LogD3D11RHI:       6052/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.11-20.29.37:224][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.11-20.29.37:224][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.11-20.29.37:224][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.11-20.29.37:229][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.11-20.29.37:229][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.11-20.29.37:229][  0]LogWindows: EnumDisplayDevices:
+[2019.01.11-20.29.37:229][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.11-20.29.37:230][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.11-20.29.37:230][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.11-20.29.37:230][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.11-20.29.37:230][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.11-20.29.37:230][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.11-20.29.37:230][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.01.11-20.29.37:230][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.01.11-20.29.37:230][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.11-20.29.37:263][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.11-20.29.37:279][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.11-20.29.37:329][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Intermediate/Shaders/WorkingDirectory/4032/).
+[2019.01.11-20.29.37:330][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/0F504E74431F98E1CC2F08AF5D36682D/'.
+[2019.01.11-20.29.37:589][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.11-20.29.37:601][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.11-20.29.37:611][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.11-20.29.37:623][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.11-20.29.37:636][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.11-20.29.37:648][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.11-20.29.37:659][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.11-20.29.37:671][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.11-20.29.37:677][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.11-20.29.37:753][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.11-20.29.37:810][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.11-20.29.37:810][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.11-20.29.37:832][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.11-20.29.37:832][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.11-20.29.37:843][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.11-20.29.37:856][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.11-20.29.37:868][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.11-20.29.37:880][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.11-20.29.37:888][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.11-20.29.37:888][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.11-20.29.37:931][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.11-20.29.37:932][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.11-20.29.37:932][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.11-20.29.37:932][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.11-20.29.38:547][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.11-20.29.38:598][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.11-20.29.38:598][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.11-20.29.38:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.11-20.29.38:598][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.11-20.29.38:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.11-20.29.38:598][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.11-20.29.38:609][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.11-20.29.38:621][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.11-20.29.38:621][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.11-20.29.38:621][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.11-20.29.38:636][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.11-20.29.38:638][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.11-20.29.38:639][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.11-20.29.38:715][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2019.01.11-20.29.39:008][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.11-20.29.39:123][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.11-20.29.39:125][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.11-20.29.39:125][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.11-20.29.39:125][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.11-20.29.39:125][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.11-20.29.39:147][  0]LogNetVersion: SizeManipulation 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1313572682)
+[2019.01.11-20.29.39:600][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099548 seconds
+[2019.01.11-20.29.39:606][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.11-20.29.39:606][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.11-20.29.39:606][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.11-20.29.40:482][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.11-20.29.40:497][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.11-20.29.40:862][  0]SourceControl: Source control is disabled
+[2019.01.11-20.29.40:862][  0]SourceControl: Source control is disabled
+[2019.01.11-20.29.40:863][  0]SourceControl: Source control is disabled
+[2019.01.11-20.29.40:864][  0]SourceControl: Source control is disabled
+[2019.01.11-20.29.41:038][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.11-20.29.41:131][  0]LogOcInput: OculusInput pre-init called
+[2019.01.11-20.29.41:229][  0]LogEngine: Initializing Engine...
+[2019.01.11-20.29.41:230][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.11-20.29.41:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.11-20.29.41:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.11-20.29.41:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.11-20.29.41:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.11-20.29.41:422][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.11-20.29.41:430][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.11-20.29.41:480][  0]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-20.29.41:490][  0]LogInit: FAudioDevice initialized.
+[2019.01.11-20.29.41:490][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.11-20.29.41:619][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.11-20.29.41:619][  0]LogInit: Texture streaming: Enabled
+[2019.01.11-20.29.41:634][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.11-20.29.41:634][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2D302F8B-4AF5-F365-DD19-0CA327DD4777}
+[2019.01.11-20.29.41:643][  0]LogInit: Transaction tracking system initialized
+[2019.01.11-20.29.41:659][  0]BlueprintLog: New page: Editor Load
+[2019.01.11-20.29.41:766][  0]LocalizationService: Localization service is disabled
+[2019.01.11-20.29.42:037][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.11-20.29.42:037][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.11-20.29.42:037][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.11-20.29.42:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.11-20.29.42:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.11-20.29.42:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.11-20.29.42:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.11-20.29.42:143][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/' took 0.02s
+[2019.01.11-20.29.42:143][  0]SourceControl: Source control is disabled
+[2019.01.11-20.29.42:143][  0]Cmd: MAP LOAD FILE="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.11-20.29.42:143][  0]LightingResults: New page: Lighting Build
+[2019.01.11-20.29.42:146][  0]MapCheck: New page: Map Check
+[2019.01.11-20.29.42:146][  0]LightingResults: New page: Lighting Build
+[2019.01.11-20.29.42:319][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-20.29.42:326][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.11-20.29.42:348][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.11-20.29.42:410][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.232ms to complete.
+[2019.01.11-20.29.42:410][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.267
+[2019.01.11-20.29.42:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.29.42:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.29.42:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.29.42:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.29.42:576][  0]LogCollectionManager: Loaded 0 collections in 0.000885 seconds
+[2019.01.11-20.29.42:619][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Saved/Collections/' took 0.01s
+[2019.01.11-20.29.42:619][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Developers/User/Collections/' took 0.01s
+[2019.01.11-20.29.42:619][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Collections/' took 0.01s
+[2019.01.11-20.29.42:619][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.11-20.29.42:628][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2576 classes and 605 folders.
+[2019.01.11-20.29.42:633][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.11-20.29.42:688][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.11-20.29.42:716][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.11-20.29.42:733][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.11-20.29.42:735][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.11-20.29.42:740][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.11-20.29.42:813][  0]LogRenderer: Reallocating scene render targets to support 1196x548 Format 10 NumSamples 1 (Frame:1).
+[2019.01.11-20.29.42:909][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.11-20.29.42:909][  0]LogLoad: (Engine Initialization) Total time: 8.18 seconds
+[2019.01.11-20.29.42:909][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.11-20.29.42:919][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.11-20.29.42:940][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.11-20.29.42:987][  0]LogRenderer: Reallocating scene render targets to support 1196x564 Format 10 NumSamples 1 (Frame:3).
+[2019.01.11-20.29.42:987][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.11-20.29.43:004][  1]LogAssetRegistry: Asset discovery search completed in 4.3120 seconds
+[2019.01.11-20.29.43:006][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.11-20.29.43:006][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.01.11-20.29.45:817][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-20.29.46:003][352]Candidate modules for hot reload:
+[2019.01.11-20.29.46:003][352]  SizeManipulation
+[2019.01.11-20.29.46:003][352]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,2381 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-20.29.46:007][352]Warning: Starting HotReload took  0.0s.
+[2019.01.11-20.29.49:299][745]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 4:29:49 AM
+[2019.01.11-20.29.49:299][745]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-20.29.49:299][745]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.01.11-20.29.49:299][745]CompilerResultsLog:   [1/3] SizeManipulationHUD.cpp
+[2019.01.11-20.29.49:299][745]CompilerResultsLog:   [2/3] UE4Editor-SizeManipulation-2381.lib
+[2019.01.11-20.29.49:299][745]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2381.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2381.exp
+[2019.01.11-20.29.49:299][745]CompilerResultsLog:   [3/3] UE4Editor-SizeManipulation-2381.dll
+[2019.01.11-20.29.49:299][745]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2381.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2381.suppressed.exp
+[2019.01.11-20.29.49:299][745]CompilerResultsLog: Total build time: 3.04 seconds (Parallel executor: 1.61 seconds)
+[2019.01.11-20.29.49:299][745]LogMainFrame: MainFrame: Module compiling took 3.307 seconds
+[2019.01.11-20.29.49:329][745]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.11-20.29.49:332][745]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-20.29.49:489][745]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-20.29.49:490][745]Display: HotReload took  3.5s.
+[2019.01.11-20.29.51:517][987]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-20.29.51:527][987]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.29.51:527][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-20.29.51:540][987]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 4:29:51 AM)
+[2019.01.11-20.29.51:540][987]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-20.29.51:558][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018130s)
+[2019.01.11-20.29.51:559][987]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-20.29.51:559][987]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.01.11-20.29.51:559][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018983s)
+[2019.01.11-20.29.51:582][987]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-20.29.51:589][987]LogInit: FAudioDevice initialized.
+[2019.01.11-20.29.51:630][987]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-20.29.51:633][987]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-12.29.51
+[2019.01.11-20.29.51:634][987]LogWorld: Bringing up level for play took: 0.001861
+[2019.01.11-20.29.51:672][987]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.01.11-20.29.51:673][987]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.825
+[2019.01.11-20.29.51:673][987]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.29.53:018][143]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.53:668][221]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.53:901][249]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.54:414][310]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.54:614][334]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.54:881][366]LogTemp: Warning: Cycle Left
+[2019.01.11-20.29.55:080][390]LogTemp: Warning: Cycle Left
+[2019.01.11-20.29.55:339][421]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.55:481][438]LogTemp: Warning: Cycle Right
+[2019.01.11-20.29.55:764][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.29.55:765][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.29.55:797][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-20.29.55:798][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.29.55:819][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.29.55:871][477]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.11-20.29.56:810][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-20.29.56:813][589]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.11-20.30.01:751][173]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-20.30.01:760][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.30.01:761][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-20.30.01:761][173]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 4:30:01 AM)
+[2019.01.11-20.30.01:761][173]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-20.30.01:772][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010940s)
+[2019.01.11-20.30.01:773][173]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-20.30.01:773][173]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2019.01.11-20.30.01:773][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012149s)
+[2019.01.11-20.30.01:798][173]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-20.30.01:804][173]LogInit: FAudioDevice initialized.
+[2019.01.11-20.30.01:834][173]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-20.30.01:836][173]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-12.30.01
+[2019.01.11-20.30.01:836][173]LogWorld: Bringing up level for play took: 0.001449
+[2019.01.11-20.30.01:849][173]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.65
+[2019.01.11-20.30.01:849][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.30.05:103][560]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.05:728][635]LogTemp: Warning: Cycle Left
+[2019.01.11-20.30.06:136][684]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.07:429][839]LogTemp: Warning: Cycle Left
+[2019.01.11-20.30.07:987][906]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.08:204][932]LogTemp: Warning: Cycle Left
+[2019.01.11-20.30.08:437][960]LogTemp: Warning: Cycle Left
+[2019.01.11-20.30.08:648][985]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.08:832][  7]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.09:057][ 34]LogTemp: Warning: Cycle Left
+[2019.01.11-20.30.09:324][ 66]LogTemp: Warning: Cycle Left
+[2019.01.11-20.30.09:465][ 83]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.09:640][104]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.09:840][128]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.10:015][149]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.10:198][171]LogTemp: Warning: Cycle Right
+[2019.01.11-20.30.10:733][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.30.10:733][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.30.10:764][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.11-20.30.10:765][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.30.10:787][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.11-20.30.10:840][238]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.11-20.36.59:641][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.11-20.36.59:838][810]Candidate modules for hot reload:
+[2019.01.11-20.36.59:838][810]  SizeManipulation
+[2019.01.11-20.36.59:838][810]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,7947 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.11-20.36.59:842][810]Warning: Starting HotReload took  0.0s.
+[2019.01.11-20.37.14:036][508]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 4:37:14 AM
+[2019.01.11-20.37.14:037][508]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.11-20.37.14:037][508]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.11-20.37.14:037][508]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.11-20.37.14:038][508]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 10.6328527 seconds
+[2019.01.11-20.37.14:038][508]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.01.11-20.37.14:038][508]CompilerResultsLog:   [1/5] SizeManipulationHUD.gen.cpp
+[2019.01.11-20.37.14:038][508]CompilerResultsLog:   [2/5] SizeManipulationGameMode.cpp
+[2019.01.11-20.37.14:038][508]CompilerResultsLog:   [3/5] SizeManipulationHUD.cpp
+[2019.01.11-20.37.14:038][508]CompilerResultsLog:   [4/5] UE4Editor-SizeManipulation-7947.lib
+[2019.01.11-20.37.14:038][508]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7947.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7947.exp
+[2019.01.11-20.37.14:039][508]CompilerResultsLog:   [5/5] UE4Editor-SizeManipulation-7947.dll
+[2019.01.11-20.37.14:039][508]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7947.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7947.suppressed.exp
+[2019.01.11-20.37.14:039][508]CompilerResultsLog: Total build time: 13.91 seconds (Parallel executor: 1.73 seconds)
+[2019.01.11-20.37.14:039][508]LogMainFrame: MainFrame: Module compiling took 14.212 seconds
+[2019.01.11-20.37.14:074][508]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.01.11-20.37.14:077][508]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.11-20.37.14:124][508]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2577 classes and 607 folders.
+[2019.01.11-20.37.14:124][508]Display: HotReload took 14.3s.
+[2019.01.11-20.37.15:936][725]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.11-20.37.15:947][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.37.15:947][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.11-20.37.15:948][725]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 4:37:15 AM)
+[2019.01.11-20.37.15:948][725]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.11-20.37.15:959][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011029s)
+[2019.01.11-20.37.15:960][725]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.11-20.37.15:960][725]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2019.01.11-20.37.15:960][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012243s)
+[2019.01.11-20.37.15:984][725]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.11-20.37.15:992][725]LogInit: FAudioDevice initialized.
+[2019.01.11-20.37.16:027][725]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.11-20.37.16:030][725]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-12.37.16
+[2019.01.11-20.37.16:030][725]LogWorld: Bringing up level for play took: 0.002561
+[2019.01.11-20.37.16:043][725]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.455
+[2019.01.11-20.37.16:043][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.11-20.37.19:159][ 96]LogTemp: Warning: Cycle Left

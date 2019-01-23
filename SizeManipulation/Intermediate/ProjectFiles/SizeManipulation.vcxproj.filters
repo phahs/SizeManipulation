@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SizeManipulation.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{96DBD4BA-B615-4CD6-BBC4-95B9C4C0EF4E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SizeManipulation.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SizeManipulationEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{5AC12E2A-9E56-4498-A0EE-90ED470CC489}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SizeManipulation">
+			<UniqueIdentifier>{C0C580BA-AE58-4ADB-AE3B-6079A6C83245}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SizeManipulation\SizeManipulation.Build.cs">
+			<Filter>Source\SizeManipulation</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SizeManipulation\SizeManipulation.cpp">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SizeManipulation\SizeManipulation.h">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SizeManipulation\SizeManipulationCharacter.cpp">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SizeManipulation\SizeManipulationCharacter.h">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SizeManipulation\SizeManipulationGameMode.cpp">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SizeManipulation\SizeManipulationGameMode.h">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SizeManipulation\SizeManipulationHUD.cpp">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SizeManipulation\SizeManipulationHUD.h">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SizeManipulation\SizeManipulationProjectile.cpp">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SizeManipulation\SizeManipulationProjectile.h">
+			<Filter>Source\SizeManipulation</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

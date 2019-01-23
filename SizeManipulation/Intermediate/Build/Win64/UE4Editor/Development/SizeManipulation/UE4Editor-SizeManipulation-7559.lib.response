@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SizeManipulation-7559.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulation.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationCharacter.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationGameMode.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationHUD.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationProjectile.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulation.init.gen.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationCharacter.gen.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationGameMode.gen.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationHUD.gen.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\SizeManipulationProjectile.gen.cpp.obj"
+"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\PCLaunch.rc.res"
+/OUT:"D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-7559.lib"

@@ -1,0 +1,687 @@
+﻿Log file open, 01/11/19 17:04:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SizeManipulation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275673
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.12-01.04.07:357][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.12-01.04.07:358][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.12-01.04.07:366][  0]LogHAL: Display: Platform has ~ 16 GB [17136615424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.12-01.04.07:366][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.12-01.04.07:366][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.12-01.04.07:366][  0]LogInit: Computer: IRONSIDE
+[2019.01.12-01.04.07:366][  0]LogInit: User: User
+[2019.01.12-01.04.07:366][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.12-01.04.07:366][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.01.12-01.04.07:366][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.12-01.04.07:366][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.12-01.04.07:366][  0]LogMemory: Process Physical Memory: 100.71 MB used, 100.71 MB peak
+[2019.01.12-01.04.07:366][  0]LogMemory: Process Virtual Memory: 89.41 MB used, 89.41 MB peak
+[2019.01.12-01.04.07:366][  0]LogMemory: Physical Memory: 6901.26 MB used,  9441.49 MB free, 16342.75 MB total
+[2019.01.12-01.04.07:366][  0]LogMemory: Virtual Memory: 4639.12 MB used,  9441.49 MB free, 134217728.00 MB total
+[2019.01.12-01.04.07:392][  0]LogInit: Using OS detected language (en-US).
+[2019.01.12-01.04.07:392][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.12-01.04.07:393][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.12-01.04.07:731][  0]LogStreaming: Display: Took  0.338s to InitEngineTextLocalization.
+[2019.01.12-01.04.07:731][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.12-01.04.07:771][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.12-01.04.07:771][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.12-01.04.08:068][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.12-01.04.08:068][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.12-01.04.08:120][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.12-01.04.08:121][  0]LogD3D11RHI:       6052/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.12-01.04.08:123][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.12-01.04.08:123][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.12-01.04.08:123][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.12-01.04.08:128][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.12-01.04.08:128][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.12-01.04.08:128][  0]LogWindows: EnumDisplayDevices:
+[2019.01.12-01.04.08:128][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.12-01.04.08:129][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.12-01.04.08:129][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.12-01.04.08:129][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.12-01.04.08:129][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.12-01.04.08:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.12-01.04.08:129][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.01.12-01.04.08:129][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.01.12-01.04.08:129][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.12-01.04.08:164][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.12-01.04.08:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.12-01.04.08:231][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Intermediate/Shaders/WorkingDirectory/12012/).
+[2019.01.12-01.04.08:231][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/2AC8F8F6475A65FB45EA91B6DE43E390/'.
+[2019.01.12-01.04.08:664][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.12-01.04.08:677][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.12-01.04.08:695][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.12-01.04.08:707][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.12-01.04.08:719][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.12-01.04.08:731][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.12-01.04.08:744][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.12-01.04.08:756][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.12-01.04.08:761][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.12-01.04.08:835][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:835][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:835][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:835][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:835][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.12-01.04.08:842][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.12-01.04.08:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.12-01.04.08:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.12-01.04.08:929][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.12-01.04.08:929][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.12-01.04.08:941][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.12-01.04.08:969][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.12-01.04.08:984][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.12-01.04.08:999][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.12-01.04.09:008][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.12-01.04.09:008][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.12-01.04.09:062][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.12-01.04.09:062][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.12-01.04.09:062][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.12-01.04.09:062][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.12-01.04.09:700][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.12-01.04.09:749][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.12-01.04.09:749][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.12-01.04.09:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.12-01.04.09:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.12-01.04.09:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.12-01.04.09:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.12-01.04.09:762][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.12-01.04.09:774][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.12-01.04.09:774][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.12-01.04.09:774][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.12-01.04.09:795][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.12-01.04.09:798][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.12-01.04.09:807][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.12-01.04.09:911][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2019.01.12-01.04.10:188][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.12-01.04.10:334][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.12-01.04.10:337][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.12-01.04.10:337][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.12-01.04.10:337][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.12-01.04.10:337][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.12-01.04.10:365][  0]LogNetVersion: SizeManipulation 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1313572682)
+[2019.01.12-01.04.10:881][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.100524 seconds
+[2019.01.12-01.04.10:886][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.12-01.04.10:886][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.12-01.04.10:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.12-01.04.11:817][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.12-01.04.11:831][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.12-01.04.12:199][  0]SourceControl: Source control is disabled
+[2019.01.12-01.04.12:199][  0]SourceControl: Source control is disabled
+[2019.01.12-01.04.12:200][  0]SourceControl: Source control is disabled
+[2019.01.12-01.04.12:201][  0]SourceControl: Source control is disabled
+[2019.01.12-01.04.12:404][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.12-01.04.12:495][  0]LogOcInput: OculusInput pre-init called
+[2019.01.12-01.04.12:576][  0]LogEngine: Initializing Engine...
+[2019.01.12-01.04.12:577][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.12-01.04.12:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.12-01.04.12:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.12-01.04.12:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.12-01.04.12:578][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.12-01.04.12:774][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.12-01.04.12:782][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.12-01.04.12:833][  0]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.12-01.04.12:843][  0]LogInit: FAudioDevice initialized.
+[2019.01.12-01.04.12:843][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.12-01.04.12:971][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.12-01.04.12:972][  0]LogInit: Texture streaming: Enabled
+[2019.01.12-01.04.12:985][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.12-01.04.13:000][  0]LogInit: Transaction tracking system initialized
+[2019.01.12-01.04.13:016][  0]BlueprintLog: New page: Editor Load
+[2019.01.12-01.04.13:149][  0]LocalizationService: Localization service is disabled
+[2019.01.12-01.04.13:461][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.12-01.04.13:461][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.12-01.04.13:461][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.12-01.04.13:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.12-01.04.13:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.12-01.04.13:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.12-01.04.13:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.12-01.04.13:599][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/' took 0.01s
+[2019.01.12-01.04.13:599][  0]SourceControl: Source control is disabled
+[2019.01.12-01.04.13:599][  0]Cmd: MAP LOAD FILE="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.12-01.04.13:600][  0]LightingResults: New page: Lighting Build
+[2019.01.12-01.04.13:601][  0]MapCheck: New page: Map Check
+[2019.01.12-01.04.13:602][  0]LightingResults: New page: Lighting Build
+[2019.01.12-01.04.13:772][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.12-01.04.13:780][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.12-01.04.13:801][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.12-01.04.13:873][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.919ms to complete.
+[2019.01.12-01.04.13:873][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.274
+[2019.01.12-01.04.13:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.04.13:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.04.13:999][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.04.14:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.04.14:019][  0]LogCollectionManager: Loaded 0 collections in 0.001044 seconds
+[2019.01.12-01.04.14:065][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Saved/Collections/' took 0.01s
+[2019.01.12-01.04.14:065][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Developers/User/Collections/' took 0.01s
+[2019.01.12-01.04.14:065][  0]LogFileCache: Scanning file cache for directory 'D:/My Files/The Documents/Unreal Projects/SizeManipulation/Content/Collections/' took 0.01s
+[2019.01.12-01.04.14:065][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.12-01.04.14:075][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2576 classes and 605 folders.
+[2019.01.12-01.04.14:079][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.12-01.04.14:146][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.12-01.04.14:177][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.01.12-01.04.14:193][  0]LogSlate: Took 0.000835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.12-01.04.14:196][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.12-01.04.14:200][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.12-01.04.14:274][  0]LogRenderer: Reallocating scene render targets to support 1196x548 Format 10 NumSamples 1 (Frame:1).
+[2019.01.12-01.04.14:388][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.12-01.04.14:388][  0]LogLoad: (Engine Initialization) Total time: 9.44 seconds
+[2019.01.12-01.04.14:388][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.12-01.04.14:398][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.12-01.04.14:418][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.12-01.04.14:475][  0]LogRenderer: Reallocating scene render targets to support 1196x564 Format 10 NumSamples 1 (Frame:3).
+[2019.01.12-01.04.14:475][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.12-01.04.14:492][  1]LogAssetRegistry: Asset discovery search completed in 4.6031 seconds
+[2019.01.12-01.04.14:494][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.12-01.04.14:494][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.01.12-01.04.28:499][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.12-01.04.28:631][687]Candidate modules for hot reload:
+[2019.01.12-01.04.28:631][687]  SizeManipulation
+[2019.01.12-01.04.28:631][687]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,2557 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.12-01.04.28:635][687]Warning: Starting HotReload took  0.0s.
+[2019.01.12-01.04.44:432][579]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 9:04:44 AM
+[2019.01.12-01.04.44:432][579]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.12-01.04.44:432][579]CompilerResultsLog: Parsing headers for SizeManipulationEditor
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.01.12-01.04.44:432][579]CompilerResultsLog: Reflection code generated for SizeManipulationEditor in 11.0885467 seconds
+[2019.01.12-01.04.44:432][579]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   [1/6] SizeManipulation.init.gen.cpp
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   [2/6] SizeManipulationGameMode.cpp
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   [3/6] SizeManipulationCharacter.gen.cpp
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   [4/6] SizeManipulationCharacter.cpp
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   [5/6] UE4Editor-SizeManipulation-2557.lib
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2557.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2557.exp
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:   [6/6] UE4Editor-SizeManipulation-2557.dll
+[2019.01.12-01.04.44:432][579]CompilerResultsLog:      Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2557.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation-2557.suppressed.exp
+[2019.01.12-01.04.44:432][579]CompilerResultsLog: Total build time: 15.55 seconds (Parallel executor: 2.84 seconds)
+[2019.01.12-01.04.44:432][579]LogMainFrame: MainFrame: Module compiling took 15.814 seconds
+[2019.01.12-01.04.44:457][579]LogClass: Could not find existing class SizeManipulationCharacter in package /Script/SizeManipulation for HotReload, assuming new class
+[2019.01.12-01.04.44:465][579]LogHotReload: Re-instancing SizeManipulationCharacter after hot-reload.
+[2019.01.12-01.04.44:564][579]LogContentBrowser: Native class hierarchy updated for 'SizeManipulation' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.01.12-01.04.44:566][579]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.01.12-01.04.44:705][579]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2577 classes and 607 folders.
+[2019.01.12-01.04.44:706][579]Display: HotReload took 16.1s.
+[2019.01.12-01.04.57:410][ 93]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.12-01.04.57:419][ 93]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.12-01.04.57:862][ 93]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.01.12-01.06.26:021][538]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.01.12-01.06.26:571][538]LogSlate: Took 0.024650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.12-01.06.33:868][336]LogRenderer: Reallocating scene render targets to support 1196x900 Format 10 NumSamples 1 (Frame:1).
+[2019.01.12-01.06.36:297][618]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.12-01.07.18:562][125]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2019.01.12-01.07.21:969][417]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.12-01.08.00:710][990]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileShrinkMaterial.FirstPersonProjectileShrinkMaterial
+[2019.01.12-01.08.02:524][189]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileGrowMaterial.FirstPersonProjectileGrowMaterial
+[2019.01.12-01.08.24:501][760]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileShrinkMaterial, compiling. 
+[2019.01.12-01.08.25:346][760]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.12-01.08.25:355][760]TextureStreamingBuild: Display: Compiling optional shaders took 0.882 seconds.
+[2019.01.12-01.08.25:395][760]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileShrinkMater6CDBE4F44BD49D9842C666B327D87526.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPerson/Meshes/FirstPersonProjectileShrinkMaterial.uasset'
+[2019.01.12-01.08.36:178][ 21]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileGrowMaterial, compiling. 
+[2019.01.12-01.08.36:290][ 21]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.12-01.08.36:291][ 21]TextureStreamingBuild: Display: Compiling optional shaders took 0.116 seconds.
+[2019.01.12-01.08.36:333][ 21]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileGrowMateriaD250CF24467A5418DCBAD299A60A4347.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPerson/Meshes/FirstPersonProjectileGrowMaterial.uasset'
+[2019.01.12-01.11.14:041][548]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.12-01.11.41:012][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonProjectileGrow.FirstPersonProjectileGrow
+[2019.01.12-01.11.41:914][611]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonProjectileShrink.FirstPersonProjectileShrink
+[2019.01.12-01.12.05:309][150]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileGrowF403591E4DA738A6AC7AD3B623F17AD7.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Blueprints/FirstPersonProjectileGrow.uasset'
+[2019.01.12-01.12.06:776][313]BlueprintLog: New page: Compile FirstPersonProjectileGrow
+[2019.01.12-01.12.20:096][752]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileShrink21A1F7A04D67E9EFB00E73914E0315F0.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Blueprints/FirstPersonProjectileShrink.uasset'
+[2019.01.12-01.12.21:570][918]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.12-01.12.27:250][560]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.12-01.12.29:150][641]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.12-01.12.36:885][  1]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.12-01.12.38:469][ 44]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonCharacterBFFC6D29497A71D607957EACA7465712.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.12-01.12.40:008][112]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.12-01.12.40:014][112]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.12-01.13.17:847][600]Candidate modules for hot reload:
+[2019.01.12-01.13.17:847][600]  SizeManipulation
+[2019.01.12-01.13.17:847][600]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,5784 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.12-01.13.17:852][600]Warning: Starting HotReload took  0.0s.
+[2019.01.12-01.13.19:517][797]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 9:13:19 AM
+[2019.01.12-01.13.19:518][797]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.12-01.13.19:518][797]CompilerResultsLog: Target is up to date
+[2019.01.12-01.13.19:518][797]CompilerResultsLog: Total build time: 1.41 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.01.12-01.13.19:518][797]LogMainFrame: MainFrame: Module compiling took 1.681 seconds
+[2019.01.12-01.13.19:780][797]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2577 classes and 607 folders.
+[2019.01.12-01.13.19:780][797]Display: HotReload took  1.9s.
+[2019.01.12-01.13.22:403][108]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.12-01.13.22:418][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.13.22:418][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.12-01.13.22:430][108]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 9:13:22 AM)
+[2019.01.12-01.13.22:430][108]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.12-01.13.22:448][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017976s)
+[2019.01.12-01.13.22:449][108]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.12-01.13.22:449][108]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.01.12-01.13.22:449][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018855s)
+[2019.01.12-01.13.22:510][108]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.12-01.13.22:518][108]LogInit: FAudioDevice initialized.
+[2019.01.12-01.13.22:566][108]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.12-01.13.22:568][108]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-17.13.22
+[2019.01.12-01.13.22:568][108]LogWorld: Bringing up level for play took: 0.001891
+[2019.01.12-01.13.22:604][108]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.01.12-01.13.22:605][108]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.107
+[2019.01.12-01.13.22:605][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.13.30:832][ 88]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1092.202 Y=-1124.041 Z=284.764] for [FirstPersonProjectileShrink_C]
+[2019.01.12-01.13.31:050][114]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1094.490 Y=-1129.998 Z=283.789] for [FirstPersonProjectileShrink_C]
+[2019.01.12-01.13.38:692][ 31]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-223.433 Y=779.321 Z=188.955] for [FirstPersonProjectileGrow_C]
+[2019.01.12-01.13.54:119][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.13.54:119][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.13.54:156][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.12-01.13.54:157][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.13.54:183][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.13.54:220][883]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.12-01.13.59:525][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.12-01.14.27:851][895]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileShrinkMaterial.FirstPersonProjectileShrinkMaterial
+[2019.01.12-01.14.56:458][283]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileShrinkMaterial, compiling. 
+[2019.01.12-01.14.56:878][283]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.12-01.14.56:879][283]TextureStreamingBuild: Display: Compiling optional shaders took 0.424 seconds.
+[2019.01.12-01.14.56:912][283]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileShrinkMater3E6E2DC545CB90AA5CE3599D9B5687B0.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPerson/Meshes/FirstPersonProjectileShrinkMaterial.uasset'
+[2019.01.12-01.15.00:679][731]LogSlate: Window 'FirstPersonProjectileShrinkMaterial' being destroyed
+[2019.01.12-01.15.00:684][731]LogSlate: Window 'FirstPersonProjectileShrinkMaterial' being destroyed
+[2019.01.12-01.15.09:424][746]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2019.01.12-01.15.18:612][807]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileMaterial, compiling. 
+[2019.01.12-01.15.19:011][807]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.12-01.15.19:012][807]TextureStreamingBuild: Display: Compiling optional shaders took 0.404 seconds.
+[2019.01.12-01.15.19:049][807]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileMaterialE9C3842849F8CDF325E9C4A2B8E3C940.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset'
+[2019.01.12-01.15.23:261][310]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2019.01.12-01.15.23:267][310]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2019.01.12-01.15.26:887][707]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonExampleMap0329A50648A6DEA2C3CA6391DFB228F0.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.01.12-01.15.28:051][707]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonExampleMap_BuiltData688BFF1E4B663439E9174AA86068ABAC.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.01.12-01.15.29:298][850]Candidate modules for hot reload:
+[2019.01.12-01.15.29:298][850]  SizeManipulation
+[2019.01.12-01.15.29:298][850]Launching UnrealBuildTool... [D:/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SizeManipulation,9415 Win64 Development -TargetType=Editor -Project="../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" -canskiplink "D:/My Files/The Documents/Unreal Projects/SizeManipulation/SizeManipulation.uproject" ]
+[2019.01.12-01.15.29:302][850]Warning: Starting HotReload took  0.0s.
+[2019.01.12-01.15.31:020][ 50]CompilerResultsLog: New page: Compilation - Jan 11, 2019, 9:15:31 AM
+[2019.01.12-01.15.31:020][ 50]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.12-01.15.31:020][ 50]CompilerResultsLog: Target is up to date
+[2019.01.12-01.15.31:020][ 50]CompilerResultsLog: Total build time: 1.44 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.01.12-01.15.31:020][ 50]LogMainFrame: MainFrame: Module compiling took 1.733 seconds
+[2019.01.12-01.15.31:296][ 50]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2577 classes and 607 folders.
+[2019.01.12-01.15.31:296][ 50]Display: HotReload took  2.0s.
+[2019.01.12-01.15.32:505][195]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.12-01.15.32:517][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.15.32:517][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.12-01.15.32:517][195]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 9:15:32 AM)
+[2019.01.12-01.15.32:517][195]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.12-01.15.32:527][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010277s)
+[2019.01.12-01.15.32:529][195]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.12-01.15.32:529][195]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2019.01.12-01.15.32:529][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012006s)
+[2019.01.12-01.15.32:586][195]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.12-01.15.32:594][195]LogInit: FAudioDevice initialized.
+[2019.01.12-01.15.32:623][195]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.12-01.15.32:625][195]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-17.15.32
+[2019.01.12-01.15.32:625][195]LogWorld: Bringing up level for play took: 0.001519
+[2019.01.12-01.15.32:638][195]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.139
+[2019.01.12-01.15.32:638][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.15.52:153][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.15.52:154][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.15.52:184][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.12-01.15.52:185][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.15.52:209][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.12-01.15.52:259][536]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.12-01.15.56:491][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.12-01.16.00:719][538]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonProjectileGrow.FirstPersonProjectileGrow
+[2019.01.12-01.19.50:998][541]BlueprintLog: New page: Compile FirstPersonProjectileGrow
+[2019.01.12-01.19.52:142][649]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileGrow1C0F8C324BE363E8FCF935BABE5FD421.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Blueprints/FirstPersonProjectileGrow.uasset'
+[2019.01.12-01.20.06:163][201]BlueprintLog: New page: Compile FirstPersonProjectileGrow
+[2019.01.12-01.20.07:179][278]LogSavePackage: Moving '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Saved/FirstPersonProjectileGrow37AAB273465A065B2EDFD5A374012C37.tmp' to '../../../../../My Files/The Documents/Unreal Projects/SizeManipulation/Content/FirstPersonCPP/Blueprints/FirstPersonProjectileGrow.uasset'
+[2019.01.12-01.20.11:178][738]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.12-01.20.11:191][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.20.11:192][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.12-01.20.11:192][738]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2019, 9:20:11 AM)
+[2019.01.12-01.20.11:192][738]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.12-01.20.11:203][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011497s)
+[2019.01.12-01.20.11:205][738]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.12-01.20.11:205][738]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2019.01.12-01.20.11:205][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013380s)
+[2019.01.12-01.20.11:239][738]LogInit: XAudio2 using 'VX2370 SERIES (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.12-01.20.11:247][738]LogInit: FAudioDevice initialized.
+[2019.01.12-01.20.11:282][738]LogLoad: Game class is 'SizeManipulationGameMode'
+[2019.01.12-01.20.11:284][738]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.11-17.20.11
+[2019.01.12-01.20.11:285][738]LogWorld: Bringing up level for play took: 0.001583
+[2019.01.12-01.20.11:297][738]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.799
+[2019.01.12-01.20.11:297][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.12-01.20.49:860][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.12-01.21.25:023][402]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1397.859 Y=-635.325 Z=274.960] for [FirstPersonProjectileGrow_C]
+[2019.01.12-01.21.26:589][590]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.39:293][114]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.39:541][144]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Wall1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.41:083][329]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.42:058][446]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Wall4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.42:208][464]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.45:759][890]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:450][973]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:459][974]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:675][  0]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:817][ 17]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:900][ 27]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:918][ 29]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-534.132 Y=1596.419 Z=18508.705] for [FirstPersonProjectileGrow_C]
+[2019.01.12-01.21.46:918][ 29]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:933][ 31]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:941][ 32]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:949][ 33]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:966][ 35]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:966][ 35]PIE: Warning: Applying invalid scale V(X=1,310,720.00, Y=1,310,720.00, Z=32,768.00) to body Floor_12
+[2019.01.12-01.21.46:966][ 35]PIE: Warning: Applying invalid scale V(X=1,310,720.00, Y=1,310,720.00, Z=32,768.00) to body Floor_12
+[2019.01.12-01.21.46:974][ 36]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:975][ 36]PIE: Warning: Applying invalid scale V(X=2,621,440.00, Y=2,621,440.00, Z=65,536.00) to body Floor_12
+[2019.01.12-01.21.46:975][ 36]PIE: Warning: Applying invalid scale V(X=2,621,440.00, Y=2,621,440.00, Z=65,536.00) to body Floor_12
+[2019.01.12-01.21.46:975][ 36]LogActor: Warning: EditorCube12 is outside the world bounds!
+[2019.01.12-01.21.46:983][ 37]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.46:983][ 37]PIE: Warning: Applying invalid scale V(X=5,242,880.00, Y=5,242,880.00, Z=131,072.00) to body Floor_12
+[2019.01.12-01.21.46:983][ 37]PIE: Warning: Applying invalid scale V(X=5,242,880.00, Y=5,242,880.00, Z=131,072.00) to body Floor_12
+[2019.01.12-01.21.47:000][ 39]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:000][ 39]PIE: Warning: Applying invalid scale V(X=10,485,760.00, Y=10,485,760.00, Z=262,144.00) to body Floor_12
+[2019.01.12-01.21.47:000][ 39]PIE: Warning: Applying invalid scale V(X=10,485,760.00, Y=10,485,760.00, Z=262,144.00) to body Floor_12
+[2019.01.12-01.21.47:000][ 39]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:000][ 39]PIE: Warning: Applying invalid scale V(X=20,971,520.00, Y=20,971,520.00, Z=524,288.00) to body Floor_12
+[2019.01.12-01.21.47:000][ 39]PIE: Warning: Applying invalid scale V(X=20,971,520.00, Y=20,971,520.00, Z=524,288.00) to body Floor_12
+[2019.01.12-01.21.47:025][ 42]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:025][ 42]PIE: Warning: Applying invalid scale V(X=41,943,040.00, Y=41,943,040.00, Z=1,048,576.00) to body Floor_12
+[2019.01.12-01.21.47:025][ 42]PIE: Warning: Applying invalid scale V(X=41,943,040.00, Y=41,943,040.00, Z=1,048,576.00) to body Floor_12
+[2019.01.12-01.21.47:033][ 43]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:033][ 43]PIE: Warning: Applying invalid scale V(X=83,886,080.00, Y=83,886,080.00, Z=2,097,152.00) to body Floor_12
+[2019.01.12-01.21.47:033][ 43]PIE: Warning: Applying invalid scale V(X=83,886,080.00, Y=83,886,080.00, Z=2,097,152.00) to body Floor_12
+[2019.01.12-01.21.47:050][ 45]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:050][ 45]PIE: Warning: Applying invalid scale V(X=167,772,160.00, Y=167,772,160.00, Z=4,194,304.00) to body Floor_12
+[2019.01.12-01.21.47:050][ 45]PIE: Warning: Applying invalid scale V(X=167,772,160.00, Y=167,772,160.00, Z=4,194,304.00) to body Floor_12
+[2019.01.12-01.21.47:066][ 47]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:066][ 47]PIE: Warning: Applying invalid scale V(X=335,544,320.00, Y=335,544,320.00, Z=8,388,608.00) to body Floor_12
+[2019.01.12-01.21.47:067][ 47]PIE: Warning: Applying invalid scale V(X=335,544,320.00, Y=335,544,320.00, Z=8,388,608.00) to body Floor_12
+[2019.01.12-01.21.47:067][ 47]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:067][ 47]PIE: Warning: Applying invalid scale V(X=671,088,640.00, Y=671,088,640.00, Z=16,777,216.00) to body Floor_12
+[2019.01.12-01.21.47:067][ 47]PIE: Warning: Applying invalid scale V(X=671,088,640.00, Y=671,088,640.00, Z=16,777,216.00) to body Floor_12
+[2019.01.12-01.21.47:083][ 49]LogActor: Warning: EditorCube14 is outside the world bounds!
+[2019.01.12-01.21.47:100][ 51]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:100][ 51]PIE: Warning: Applying invalid scale V(X=1,342,177,280.00, Y=1,342,177,280.00, Z=33,554,432.00) to body Floor_12
+[2019.01.12-01.21.47:100][ 51]PIE: Warning: Applying invalid scale V(X=1,342,177,280.00, Y=1,342,177,280.00, Z=33,554,432.00) to body Floor_12
+[2019.01.12-01.21.47:133][ 55]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:133][ 55]PIE: Warning: Applying invalid scale V(X=2,684,354,560.00, Y=2,684,354,560.00, Z=67,108,864.00) to body Floor_12
+[2019.01.12-01.21.47:133][ 55]PIE: Warning: Applying invalid scale V(X=2,684,354,560.00, Y=2,684,354,560.00, Z=67,108,864.00) to body Floor_12
+[2019.01.12-01.21.47:167][ 59]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:167][ 59]PIE: Warning: Applying invalid scale V(X=5,368,709,120.00, Y=5,368,709,120.00, Z=134,217,728.00) to body Floor_12
+[2019.01.12-01.21.47:167][ 59]PIE: Warning: Applying invalid scale V(X=5,368,709,120.00, Y=5,368,709,120.00, Z=134,217,728.00) to body Floor_12
+[2019.01.12-01.21.47:200][ 63]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:200][ 63]PIE: Warning: Applying invalid scale V(X=10,737,418,240.00, Y=10,737,418,240.00, Z=268,435,456.00) to body Floor_12
+[2019.01.12-01.21.47:200][ 63]PIE: Warning: Applying invalid scale V(X=10,737,418,240.00, Y=10,737,418,240.00, Z=268,435,456.00) to body Floor_12
+[2019.01.12-01.21.47:234][ 67]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:234][ 67]PIE: Warning: Applying invalid scale V(X=21,474,836,480.00, Y=21,474,836,480.00, Z=536,870,912.00) to body Floor_12
+[2019.01.12-01.21.47:234][ 67]PIE: Warning: Applying invalid scale V(X=21,474,836,480.00, Y=21,474,836,480.00, Z=536,870,912.00) to body Floor_12
+[2019.01.12-01.21.47:267][ 71]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:267][ 71]PIE: Warning: Applying invalid scale V(X=42,949,672,960.00, Y=42,949,672,960.00, Z=1,073,741,824.00) to body Floor_12
+[2019.01.12-01.21.47:267][ 71]PIE: Warning: Applying invalid scale V(X=42,949,672,960.00, Y=42,949,672,960.00, Z=1,073,741,824.00) to body Floor_12
+[2019.01.12-01.21.47:300][ 75]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:300][ 75]PIE: Warning: Applying invalid scale V(X=85,899,345,920.00, Y=85,899,345,920.00, Z=2,147,483,648.00) to body Floor_12
+[2019.01.12-01.21.47:300][ 75]PIE: Warning: Applying invalid scale V(X=85,899,345,920.00, Y=85,899,345,920.00, Z=2,147,483,648.00) to body Floor_12
+[2019.01.12-01.21.47:301][ 75]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:301][ 75]PIE: Warning: Applying invalid scale V(X=171,798,691,840.00, Y=171,798,691,840.00, Z=4,294,967,296.00) to body Floor_12
+[2019.01.12-01.21.47:301][ 75]PIE: Warning: Applying invalid scale V(X=171,798,691,840.00, Y=171,798,691,840.00, Z=4,294,967,296.00) to body Floor_12
+[2019.01.12-01.21.47:333][ 79]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:334][ 79]PIE: Warning: Applying invalid scale V(X=343,597,383,680.00, Y=343,597,383,680.00, Z=8,589,934,592.00) to body Floor_12
+[2019.01.12-01.21.47:334][ 79]PIE: Warning: Applying invalid scale V(X=343,597,383,680.00, Y=343,597,383,680.00, Z=8,589,934,592.00) to body Floor_12
+[2019.01.12-01.21.47:367][ 83]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:367][ 83]PIE: Warning: Applying invalid scale V(X=687,194,767,360.00, Y=687,194,767,360.00, Z=17,179,869,184.00) to body Floor_12
+[2019.01.12-01.21.47:367][ 83]PIE: Warning: Applying invalid scale V(X=687,194,767,360.00, Y=687,194,767,360.00, Z=17,179,869,184.00) to body Floor_12
+[2019.01.12-01.21.47:400][ 87]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:401][ 87]PIE: Warning: Applying invalid scale V(X=1,374,389,534,720.00, Y=1,374,389,534,720.00, Z=34,359,738,368.00) to body Floor_12
+[2019.01.12-01.21.47:401][ 87]PIE: Warning: Applying invalid scale V(X=1,374,389,534,720.00, Y=1,374,389,534,720.00, Z=34,359,738,368.00) to body Floor_12
+[2019.01.12-01.21.47:434][ 91]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:434][ 91]PIE: Warning: Applying invalid scale V(X=2,748,779,069,440.00, Y=2,748,779,069,440.00, Z=68,719,476,736.00) to body Floor_12
+[2019.01.12-01.21.47:434][ 91]PIE: Warning: Applying invalid scale V(X=2,748,779,069,440.00, Y=2,748,779,069,440.00, Z=68,719,476,736.00) to body Floor_12
+[2019.01.12-01.21.47:442][ 92]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:443][ 92]PIE: Warning: Applying invalid scale V(X=5,497,558,138,880.00, Y=5,497,558,138,880.00, Z=137,438,953,472.00) to body Floor_12
+[2019.01.12-01.21.47:443][ 92]PIE: Warning: Applying invalid scale V(X=5,497,558,138,880.00, Y=5,497,558,138,880.00, Z=137,438,953,472.00) to body Floor_12
+[2019.01.12-01.21.47:459][ 94]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:459][ 94]PIE: Warning: Applying invalid scale V(X=10,995,116,277,760.00, Y=10,995,116,277,760.00, Z=274,877,906,944.00) to body Floor_12
+[2019.01.12-01.21.47:459][ 94]PIE: Warning: Applying invalid scale V(X=10,995,116,277,760.00, Y=10,995,116,277,760.00, Z=274,877,906,944.00) to body Floor_12
+[2019.01.12-01.21.47:484][ 97]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:484][ 97]PIE: Warning: Applying invalid scale V(X=21,990,232,555,520.00, Y=21,990,232,555,520.00, Z=549,755,813,888.00) to body Floor_12
+[2019.01.12-01.21.47:484][ 97]PIE: Warning: Applying invalid scale V(X=21,990,232,555,520.00, Y=21,990,232,555,520.00, Z=549,755,813,888.00) to body Floor_12
+[2019.01.12-01.21.47:500][ 99]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:500][ 99]PIE: Warning: Applying invalid scale V(X=43,980,465,111,040.00, Y=43,980,465,111,040.00, Z=1,099,511,627,776.00) to body Floor_12
+[2019.01.12-01.21.47:500][ 99]PIE: Warning: Applying invalid scale V(X=43,980,465,111,040.00, Y=43,980,465,111,040.00, Z=1,099,511,627,776.00) to body Floor_12
+[2019.01.12-01.21.47:516][101]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:516][101]PIE: Warning: Applying invalid scale V(X=87,960,930,222,080.00, Y=87,960,930,222,080.00, Z=2,199,023,255,552.00) to body Floor_12
+[2019.01.12-01.21.47:516][101]PIE: Warning: Applying invalid scale V(X=87,960,930,222,080.00, Y=87,960,930,222,080.00, Z=2,199,023,255,552.00) to body Floor_12
+[2019.01.12-01.21.47:525][102]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:525][102]PIE: Warning: Applying invalid scale V(X=175,921,860,444,160.00, Y=175,921,860,444,160.00, Z=4,398,046,511,104.00) to body Floor_12
+[2019.01.12-01.21.47:525][102]PIE: Warning: Applying invalid scale V(X=175,921,860,444,160.00, Y=175,921,860,444,160.00, Z=4,398,046,511,104.00) to body Floor_12
+[2019.01.12-01.21.47:525][102]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:525][102]PIE: Warning: Applying invalid scale V(X=351,843,720,888,320.00, Y=351,843,720,888,320.00, Z=8,796,093,022,208.00) to body Floor_12
+[2019.01.12-01.21.47:526][102]PIE: Warning: Applying invalid scale V(X=351,843,720,888,320.00, Y=351,843,720,888,320.00, Z=8,796,093,022,208.00) to body Floor_12
+[2019.01.12-01.21.47:533][103]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:534][103]PIE: Warning: Applying invalid scale V(X=703,687,441,776,640.00, Y=703,687,441,776,640.00, Z=17,592,186,044,416.00) to body Floor_12
+[2019.01.12-01.21.47:534][103]PIE: Warning: Applying invalid scale V(X=703,687,441,776,640.00, Y=703,687,441,776,640.00, Z=17,592,186,044,416.00) to body Floor_12
+[2019.01.12-01.21.47:541][104]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:542][104]PIE: Warning: Applying invalid scale V(X=1,407,374,883,553,280.00, Y=1,407,374,883,553,280.00, Z=35,184,372,088,832.00) to body Floor_12
+[2019.01.12-01.21.47:542][104]PIE: Warning: Applying invalid scale V(X=1,407,374,883,553,280.00, Y=1,407,374,883,553,280.00, Z=35,184,372,088,832.00) to body Floor_12
+[2019.01.12-01.21.47:550][105]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:550][105]PIE: Warning: Applying invalid scale V(X=2,814,749,767,106,560.00, Y=2,814,749,767,106,560.00, Z=70,368,744,177,664.00) to body Floor_12
+[2019.01.12-01.21.47:550][105]PIE: Warning: Applying invalid scale V(X=2,814,749,767,106,560.00, Y=2,814,749,767,106,560.00, Z=70,368,744,177,664.00) to body Floor_12
+[2019.01.12-01.21.47:558][106]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:559][106]PIE: Warning: Applying invalid scale V(X=5,629,499,534,213,120.00, Y=5,629,499,534,213,120.00, Z=140,737,488,355,328.00) to body Floor_12
+[2019.01.12-01.21.47:559][106]PIE: Warning: Applying invalid scale V(X=5,629,499,534,213,120.00, Y=5,629,499,534,213,120.00, Z=140,737,488,355,328.00) to body Floor_12
+[2019.01.12-01.21.47:559][106]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:559][106]PIE: Warning: Applying invalid scale V(X=11,258,999,068,426,240.00, Y=11,258,999,068,426,240.00, Z=281,474,976,710,656.00) to body Floor_12
+[2019.01.12-01.21.47:559][106]PIE: Warning: Applying invalid scale V(X=11,258,999,068,426,240.00, Y=11,258,999,068,426,240.00, Z=281,474,976,710,656.00) to body Floor_12
+[2019.01.12-01.21.47:567][107]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:567][107]PIE: Warning: Applying invalid scale V(X=22,517,998,136,852,480.00, Y=22,517,998,136,852,480.00, Z=562,949,953,421,312.00) to body Floor_12
+[2019.01.12-01.21.47:567][107]PIE: Warning: Applying invalid scale V(X=22,517,998,136,852,480.00, Y=22,517,998,136,852,480.00, Z=562,949,953,421,312.00) to body Floor_12
+[2019.01.12-01.21.47:575][108]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:575][108]PIE: Warning: Applying invalid scale V(X=45,035,996,273,704,960.00, Y=45,035,996,273,704,960.00, Z=1,125,899,906,842,624.00) to body Floor_12
+[2019.01.12-01.21.47:575][108]PIE: Warning: Applying invalid scale V(X=45,035,996,273,704,960.00, Y=45,035,996,273,704,960.00, Z=1,125,899,906,842,624.00) to body Floor_12
+[2019.01.12-01.21.47:583][109]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:583][109]PIE: Warning: Applying invalid scale V(X=90,071,992,547,409,920.00, Y=90,071,992,547,409,920.00, Z=2,251,799,813,685,248.00) to body Floor_12
+[2019.01.12-01.21.47:583][109]PIE: Warning: Applying invalid scale V(X=90,071,992,547,409,920.00, Y=90,071,992,547,409,920.00, Z=2,251,799,813,685,248.00) to body Floor_12
+[2019.01.12-01.21.47:592][110]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:592][110]PIE: Warning: Applying invalid scale V(X=180,143,985,094,819,840.00, Y=180,143,985,094,819,840.00, Z=4,503,599,627,370,496.00) to body Floor_12
+[2019.01.12-01.21.47:592][110]PIE: Warning: Applying invalid scale V(X=180,143,985,094,819,840.00, Y=180,143,985,094,819,840.00, Z=4,503,599,627,370,496.00) to body Floor_12
+[2019.01.12-01.21.47:600][111]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:600][111]PIE: Warning: Applying invalid scale V(X=360,287,970,189,639,680.00, Y=360,287,970,189,639,680.00, Z=9,007,199,254,740,992.00) to body Floor_12
+[2019.01.12-01.21.47:600][111]PIE: Warning: Applying invalid scale V(X=360,287,970,189,639,680.00, Y=360,287,970,189,639,680.00, Z=9,007,199,254,740,992.00) to body Floor_12
+[2019.01.12-01.21.47:609][112]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:609][112]PIE: Warning: Applying invalid scale V(X=720,575,940,379,279,360.00, Y=720,575,940,379,279,360.00, Z=18,014,398,509,481,984.00) to body Floor_12
+[2019.01.12-01.21.47:609][112]PIE: Warning: Applying invalid scale V(X=720,575,940,379,279,360.00, Y=720,575,940,379,279,360.00, Z=18,014,398,509,481,984.00) to body Floor_12
+[2019.01.12-01.21.47:625][114]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:625][114]PIE: Warning: Applying invalid scale V(X=1,441,151,880,758,558,720.00, Y=1,441,151,880,758,558,720.00, Z=36,028,797,018,963,968.00) to body Floor_12
+[2019.01.12-01.21.47:625][114]PIE: Warning: Applying invalid scale V(X=1,441,151,880,758,558,720.00, Y=1,441,151,880,758,558,720.00, Z=36,028,797,018,963,968.00) to body Floor_12
+[2019.01.12-01.21.47:667][119]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:667][119]PIE: Warning: Applying invalid scale V(X=2,882,303,761,517,117,440.00, Y=2,882,303,761,517,117,440.00, Z=72,057,594,037,927,936.00) to body Floor_12
+[2019.01.12-01.21.47:667][119]PIE: Warning: Applying invalid scale V(X=2,882,303,761,517,117,440.00, Y=2,882,303,761,517,117,440.00, Z=72,057,594,037,927,936.00) to body Floor_12
+[2019.01.12-01.21.47:742][128]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:742][128]PIE: Warning: Applying invalid scale V(X=5,764,607,523,034,234,880.00, Y=5,764,607,523,034,234,880.00, Z=144,115,188,075,855,872.00) to body Floor_12
+[2019.01.12-01.21.47:742][128]PIE: Warning: Applying invalid scale V(X=5,764,607,523,034,234,880.00, Y=5,764,607,523,034,234,880.00, Z=144,115,188,075,855,872.00) to body Floor_12
+[2019.01.12-01.21.47:784][133]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:784][133]PIE: Warning: Applying invalid scale V(X=11,529,215,046,068,469,760.00, Y=11,529,215,046,068,469,760.00, Z=288,230,376,151,711,744.00) to body Floor_12
+[2019.01.12-01.21.47:784][133]PIE: Warning: Applying invalid scale V(X=11,529,215,046,068,469,760.00, Y=11,529,215,046,068,469,760.00, Z=288,230,376,151,711,744.00) to body Floor_12
+[2019.01.12-01.21.47:809][136]PIE: Warning: Mobility of /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor_12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.01.12-01.21.47:809][136]PIE: Warning: Applying invalid scale V(X=9,223,372,036,854,775,808.00, Y=9,223,372,036,854,775,808.00, Z=576,460,752,303,423,488.00) to body Floor_12
+[2019.01.12-01.21.47:809][136]PIE: Warning: Applying invalid scale V(X=9,223,372,036,854,775,808.00, Y=9,223,372,036,854,775,808.00, Z=576,460,752,303,423,488.00) to body Floor_12
+[2019.01.12-01.21.48:477][136]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.668 s
+[2019.01.12-01.21.48:477][136]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.12-01.21.48:477][136]LogOutputDevice: Error: 
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 849]
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: Nans found on Bounds for Primitive StaticMeshComponent0: Origin X=-282.149 Y=0.000 Z=120.225, BoxExtent X=1152921856450567864320.000 Y=1152921504606846976000.000 Z=28836781510518374400.000, SphereRadius inf
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: Stack: 
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff132a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff12fe0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff12ffb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff0aacabb7 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff0ab5446d UE4Editor-Renderer.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff15ef8a20 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff15e04a99 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff16393274 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff163c7588 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff163d957a UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff0aad88be UE4Editor-Renderer.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff161e9323 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff16c5a3ca UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff13bc7d3d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff144bf666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007ff6af055cbd UE4Editor.exe!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007ff6af065b3c UE4Editor.exe!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007ff6af065bba UE4Editor.exe!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007ff6af073dac UE4Editor.exe!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007ff6af075aaa UE4Editor.exe!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff69aa3034 KERNEL32.DLL!UnknownFunction []
+[2019.01.12-01.21.48:478][136]LogOutputDevice: Error: [Callstack] 0x00007fff6ac93691 ntdll.dll!UnknownFunction []
+[2019.01.12-01.21.48:479][136]LogOutputDevice: Error: 
+[2019.01.12-01.21.48:482][136]LogStats:                SubmitErrorReport -  0.000 s

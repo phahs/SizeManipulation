@@ -1,0 +1,3 @@
+D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation\SizeManipulation.Build.cs
+D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulation.Target.cs
+D:\My Files\The Documents\Unreal Projects\SizeManipulation\Source\SizeManipulationEditor.Target.cs

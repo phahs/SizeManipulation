@@ -1,0 +1,82 @@
+﻿  Cleaning SizeManipulationEditor Binaries...
+  Creating makefile for SizeManipulationEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Using Visual Studio 2015 14.0 toolchain (D:\VS\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Parsing headers for SizeManipulationEditor
+    Running UnrealHeaderTool "D:\My Files\The Documents\Unreal Projects\SizeManipulation\SizeManipulation.uproject" "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\SizeManipulationEditor\Development\SizeManipulationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SizeManipulationEditor in 8.9615904 seconds
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1308.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1308.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1426.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1426.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1444.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1444.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1557.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1557.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1564.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1564.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1903.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-1903.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-2381.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-2381.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-2480.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-2480.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-2538.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-2538.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-3122.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-3122.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-3435.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-3435.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-3778.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-3778.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-4136.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-4136.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-4717.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-4717.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-5179.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-5179.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-5700.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-5700.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-6403.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-6403.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7188.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7188.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7632.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7632.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7721.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7721.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7913.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7913.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7947.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-7947.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-8184.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-8184.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-8564.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-8564.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-9196.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-9196.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-927.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-927.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-9937.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-9937.pdb".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-9971.dll".
+  Deleting old hot reload file: "D:\My Files\The Documents\Unreal Projects\SizeManipulation\Binaries\Win64\UE4Editor-SizeManipulation-9971.pdb".
+  Building 14 actions with 8 processes...
+    [1/14] PCLaunch.rc
+    [2/14] SharedPCH.Engine.cpp
+    [3/14] SizeManipulation.init.gen.cpp
+    [4/14] SizeManipulationProjectile.cpp
+    [5/14] SizeManipulationGameMode.gen.cpp
+    [6/14] SizeManipulationHUD.gen.cpp
+    [7/14] SizeManipulationGameMode.cpp
+    [8/14] SizeManipulation.cpp
+    [9/14] SizeManipulationCharacter.gen.cpp
+    [10/14] SizeManipulationHUD.cpp
+    [11/14] SizeManipulationProjectile.gen.cpp
+    [12/14] SizeManipulationCharacter.cpp
+    [13/14] UE4Editor-SizeManipulation.lib
+       Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation.exp
+    [14/14] UE4Editor-SizeManipulation.dll
+       Creating library D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation.suppressed.lib and object D:\My Files\The Documents\Unreal Projects\SizeManipulation\Intermediate\Build\Win64\UE4Editor\Development\SizeManipulation\UE4Editor-SizeManipulation.suppressed.exp
+  Deploying SizeManipulationEditor Win64 Development...
+  Total build time: 40.26 seconds (Parallel executor: 26.32 seconds)
